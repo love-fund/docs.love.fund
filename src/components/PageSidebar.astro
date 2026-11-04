@@ -1,0 +1,76 @@
+---
+// "on this page", reworked:
+// - starlight's "on this page" bar (normally mobile-only) shows at every width.
+// - mobile: its dropdown starts open.
+// - desktop (72rem+): the bar is a toggle. closed (the default), there's no toc column at all;
+//   open, the toc appears as a column between the left nav and the content (layout in theme.css).
+import MobileTableOfContents from '@astrojs/starlight/components/MobileTableOfContents.astro';
+import TableOfContents from '@astrojs/starlight/components/TableOfContents.astro';
+---
+
+{
+	Astro.locals.starlightRoute.toc && (
+		<>
+			<MobileTableOfContents />
+			<script is:inline>
+				(function () {
+					var details = document.getElementById('starlight__mobile-toc');
+					if (!details) return;
+					var desktop = matchMedia('(min-width: 72rem)');
+					if (!desktop.matches) details.open = true;
+					// on desktop the bar toggles the column instead of opening its dropdown
+					details.querySelector('summary').addEventListener('click', function (e) {
+						if (!desktop.matches) return;
+						e.preventDefault();
+						var open = document.documentElement.toggleAttribute('data-lf-toc-open');
+						// remember it across pages (Head.astro restores it before first paint)
+						try {
+							localStorage.setItem('lf-toc-open', open ? '1' : '0');
+						} catch (err) {}
+					});
+				})();
+			</script>
+			<div class="right-sidebar-panel sl-hidden lg:sl-block">
+				<div class="sl-container">
+					<TableOfContents />
+				</div>
+			</div>
+		</>
+	)
+}
+
+<style>
+	.right-sidebar-panel {
+		padding: 1rem var(--sl-sidebar-pad-x);
+	}
+	.sl-container {
+		width: calc(var(--sl-sidebar-width) - 2 * var(--sl-sidebar-pad-x));
+	}
+	.right-sidebar-panel :global(h2) {
+		color: var(--sl-color-white);
+		font-size: var(--sl-text-h5);
+		font-weight: 600;
+		line-height: var(--sl-line-height-headings);
+		margin-bottom: 0.5rem;
+	}
+	.right-sidebar-panel :global(:where(a)) {
+		display: block;
+		font-size: var(--sl-text-xs);
+		text-decoration: none;
+		color: var(--sl-color-gray-3);
+		overflow-wrap: anywhere;
+	}
+	.right-sidebar-panel :global(:where(a):hover) {
+		color: var(--sl-color-white);
+	}
+	@media (min-width: 72rem) {
+		.sl-container {
+			max-width: calc(
+				(
+						(100vw - var(--sl-sidebar-width) - 2 * var(--sl-content-pad-x) - 2 * var(--sl-sidebar-pad-x)) *
+							0.25
+					)
+			);
+		}
+	}
+</style>

@@ -251,3 +251,54 @@ header.header {
 :root[data-lf-banner-hidden] {
 	--lf-banner-h: 0px;
 }
+
+/* "on this page" (src/components/PageSidebar.astro). on desktop the mobile "on this page" bar stays,
+   as a toggle: closed (default) there's no toc column; open (html[data-lf-toc-open]) the toc is a column
+   between the left nav and the content. */
+@media (min-width: 72rem) {
+	:root[data-has-toc] {
+		--sl-mobile-toc-height: 3rem;
+		scroll-padding-top: calc(1.5rem + var(--sl-nav-height) + var(--sl-mobile-toc-height));
+	}
+	/* the bar's dropdown is mobile-only */
+	#starlight__mobile-toc .dropdown {
+		display: none;
+	}
+	:root[data-lf-toc-open] #starlight__mobile-toc .caret {
+		transform: rotateZ(90deg);
+	}
+	:root[data-lf-toc-open] #starlight__mobile-toc .toggle {
+		color: var(--sl-color-white);
+		border-color: var(--sl-color-accent);
+	}
+	/* closed: no column, content takes the full width as on pages without a toc.
+	   the bar lives inside the column (it's position: fixed), so shrink the column to nothing
+	   and hide only the toc list, rather than hiding the column itself. */
+	:root:not([data-lf-toc-open]) .right-sidebar-container {
+		width: 0;
+	}
+	:root:not([data-lf-toc-open]) .right-sidebar {
+		width: 0;
+		border: 0;
+	}
+	:root:not([data-lf-toc-open]) .right-sidebar-panel {
+		display: none;
+	}
+	:root:not([data-lf-toc-open])[data-has-sidebar][data-has-toc] .main-pane {
+		width: 100%;
+		--sl-content-margin-inline: auto;
+	}
+	/* open: the column comes second, right after the left nav */
+	.right-sidebar-container {
+		order: 0;
+		margin-inline-start: 0;
+	}
+	.right-sidebar {
+		padding-top: calc(var(--sl-nav-height) + var(--sl-mobile-toc-height));
+		border-inline-start: 0;
+		border-inline-end: 1px solid var(--sl-color-hairline);
+	}
+	:root[data-has-sidebar][data-has-toc] .main-pane {
+		--sl-content-margin-inline: 0 auto;
+	}
+}

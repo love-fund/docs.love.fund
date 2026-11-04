@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { sidebar } from './src/sidebar.mjs';
 
 const GA = 'G-F5QVEN6V3V'; // same property as love.fund
 // regions where analytics cookies need consent (EEA + UK + CH)
@@ -19,6 +20,7 @@ export default defineConfig({
 			social: [
 				{ icon: 'telegram', label: 'Telegram', href: 'https://t.me/+m3faFlCfyvcyMDdh' },
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/love-fund/docs.love.fund' },
+				{ icon: 'x.com', label: 'X', href: 'https://x.com/lovedotfund' },
 			],
 			customCss: ['./src/styles/theme.css'],
 			components: {
@@ -26,6 +28,7 @@ export default defineConfig({
 				Head: './src/components/Head.astro',
 				Footer: './src/components/Footer.astro',
 				Header: './src/components/Header.astro',
+				PageSidebar: './src/components/PageSidebar.astro',
 			},
 			head: [
 				{ tag: 'link', attrs: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },
@@ -44,47 +47,7 @@ export default defineConfig({
 					content: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'granted'});gtag('consent','default',{analytics_storage:'denied',region:${JSON.stringify(EU)}});gtag('js',new Date());gtag('config','${GA}',{allow_google_signals:false,allow_ad_personalization_signals:false});`,
 				},
 			],
-			sidebar: [
-				{
-					label: 'Start here',
-					items: [
-						'start-here/what-is-love-fund',
-						'start-here/track-record',
-					],
-				},
-				{
-					label: 'Ontology',
-					items: [
-						{ label: 'Intro', slug: 'ontology' },
-						{ label: 'Mission: Fund What Matters', slug: 'ontology/fund-what-matters' },
-						{ label: 'Beliefs', slug: 'ontology/beliefs' },
-						{ label: 'Beyond Dualism', slug: 'ontology/beyond-dualism' },
-						{ label: 'Dialectic: Love x Funding', slug: 'ontology/dialectic' },
-						{
-							label: 'More dialectics',
-							collapsed: true,
-							items: [
-								{ label: 'Dialectic: Sovereignty x Interdependence', slug: 'ontology/dialectics/sovereignty-interdependence' },
-								{ label: 'Dialectic: Profit x Purpose', slug: 'ontology/dialectics/profit-purpose' },
-								{ label: 'Dialectic: Networks x Hierarchies', slug: 'ontology/dialectics/networks-hierarchies' },
-								{ label: 'Dialectic: Gift x Exchange', slug: 'ontology/dialectics/gift-exchange' },
-								{ label: 'Dialectic: Scarcity x Abundance', slug: 'ontology/dialectics/scarcity-abundance' },
-								{ label: 'Dialectic: Measurement x Meaning', slug: 'ontology/dialectics/measurement-meaning' },
-								{ label: 'Dialectic: Local x Global', slug: 'ontology/dialectics/local-global' },
-								{ label: 'Dialectic: Short-term x Long-term', slug: 'ontology/dialectics/short-long-term' },
-								{ label: 'Dialectic: Trust x Verification', slug: 'ontology/dialectics/trust-verification' },
-								{ label: 'Dialectic: Openness x Boundaries', slug: 'ontology/dialectics/openness-boundaries' },
-								{ label: 'Dialectic: Competition x Cooperation', slug: 'ontology/dialectics/competition-cooperation' },
-								{ label: 'Dialectic: Being x Doing', slug: 'ontology/dialectics/being-doing' },
-								{ label: 'Dialectic: Sacred x Global Economy', slug: 'ontology/dialectics/sacred-global-economy' },
-							],
-						},
-						{ label: 'The Upward Spiral', slug: 'ontology/upward-spiral' },
-					],
-				},
-				{ label: 'Roadmap', items: [{ autogenerate: { directory: 'roadmap' } }] },
-				{ label: 'Reference', items: [{ autogenerate: { directory: 'reference' } }] },
-			],
+			sidebar,
 		}),
 	],
 });

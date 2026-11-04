@@ -22,4 +22,8 @@ const card = new URL(`/og/${file}.png`, Astro.site).href;
 		var until = Number(localStorage.getItem('lf-banner-dismissed-until'));
 		if (until && Date.now() < until) document.documentElement.setAttribute('data-lf-banner-hidden', '');
 	} catch (e) {}
+	// restore the desktop "on this page" column if it was left open (see PageSidebar.astro); default is closed
+	try {
+		if (localStorage.getItem('lf-toc-open') === '1') document.documentElement.setAttribute('data-lf-toc-open', '');
+	} catch (e) {}
 </script>
