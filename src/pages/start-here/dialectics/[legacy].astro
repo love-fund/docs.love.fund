@@ -1,0 +1,31 @@
+---
+// old /start-here/dialectics/<slug>/ urls, from before the ontology pages moved to /ontology/.
+import { getEntry } from 'astro:content';
+import Redirect from '../../../components/Redirect.astro';
+
+export const DIALECTICS = [
+	'sovereignty-interdependence',
+	'profit-purpose',
+	'networks-hierarchies',
+	'gift-exchange',
+	'scarcity-abundance',
+	'measurement-meaning',
+	'local-global',
+	'short-long-term',
+	'trust-verification',
+	'openness-boundaries',
+	'competition-cooperation',
+	'being-doing',
+	'sacred-global-economy',
+];
+
+export function getStaticPaths() {
+	return DIALECTICS.map((slug) => ({ params: { legacy: slug }, props: { id: `ontology/dialectics/${slug}` } }));
+}
+
+const { id } = Astro.props;
+const entry = await getEntry('docs', id);
+if (!entry) throw new Error(`legacy redirect target missing: ${id}`);
+---
+
+<Redirect to={`/${id}/`} title={entry.data.title} description={entry.data.description ?? ''} card={id.replace(/\//g, '-')} />
