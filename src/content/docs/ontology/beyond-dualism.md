@@ -3,6 +3,15 @@ title: Beyond Dualism
 description: How opposites like love and money can produce something new, and when it's better to keep them apart.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Many tensions, like love and money, come as pairs that look opposed, but the tension between them can be generative.
+- You can pull opposites into a new synthesis, or hold them apart so each keeps the other honest. The skill is knowing which.
+- Not every conflict has a beautiful middle ground, and a compromise isn't a synthesis.
+
+</details>
+
 ## The core idea
 
 Many of our deepest tensions come as pairs of forces that look opposed: love and money, sovereignty and interdependence, individualism and collectivism.

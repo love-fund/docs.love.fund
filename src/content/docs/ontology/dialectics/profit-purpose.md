@@ -3,6 +3,15 @@ title: Profit x Purpose
 description: Making money and doing good look like a tradeoff. A regenerative enterprise makes one the engine of the other.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Chase profit and purpose gets trimmed. Chase purpose and the money runs out.
+- The synthesis is regenerative enterprise: earn by creating social and ecological value.
+- Some work will never pay for itself and deserves gifts and public support, not a business model.
+
+</details>
+
 ## The tension
 
 Profit is what keeps an enterprise alive: revenue above costs, enough to pay people, reinvest and keep going. Purpose is why the enterprise exists at all: the people, places or problems it's there to serve.

@@ -5,6 +5,15 @@ sidebar:
   order: 1.5
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Gitcoin started in 2017, and love.fund was conceived on July 16, 2026.
+- love.fund launch is targeted for February 14, 2027, with rounds in H1 and H2 2027.
+- Techne is targeted for late 2027, and dates from today onward are targets, not commitments.
+
+</details>
+
 Dates from today onward are targets, not commitments.
 
 ## How we got here

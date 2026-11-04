@@ -3,6 +3,15 @@ title: "Fund What Matters"
 description: "Our mission is to Fund What Matters: a world where the things people depend on and love are funded well, not last."
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Our mission is to Fund What Matters.
+- Today the things that matter most, like care, local places, public goods and ecosystems, are funded last.
+- In a better world, funding is steady, follows what people value, sits close to the work and builds relationships. What's missing is the rails.
+
+</details>
+
 Our mission is to **Fund What Matters**.
 
 ## A world where what matters is funded well

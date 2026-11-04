@@ -3,6 +3,15 @@ title: Sacred Economy x Global Economy
 description: The modern global economy and a sacred economy look like opposite worlds. The path between them is shield first, then interface on your own terms.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- The global economy is productive but extractive. A sacred economy is meaningful but vulnerable.
+- The path between them: finance first shields a community while it weaves its own economy, then it meets the global economy on its own terms.
+- The goal is for money to be transformed into a community's values, not the other way round.
+
+</details>
+
 ## The tension
 
 The modern global economy is the system most of the world runs on: markets, capital, trade, growth, and money as the common measure of value. A sacred economy is one where the economy serves what people hold sacred: relationships, the living world, community, and the things that can't be priced.

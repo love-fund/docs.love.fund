@@ -3,6 +3,15 @@ title: Short-term x Long-term
 description: Urgent needs and generational stewardship pull on the same resources. Good funding meets today's needs in ways that build tomorrow.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Urgent needs and generational work pull on the same resources.
+- The synthesis is stewardship: meet today's needs in ways that build capacity for tomorrow.
+- Multi-year funding, relief that builds local capacity, and seventh-generation thinking.
+
+</details>
+
 ## The tension
 
 The short term is what needs doing now: rent, food, a crisis, a deadline, a project that dies without funding this month. The long term is what we're building over decades or generations: ecosystems, institutions, cultures, the world our grandchildren will live in.

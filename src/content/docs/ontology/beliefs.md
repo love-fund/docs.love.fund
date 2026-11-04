@@ -3,6 +3,15 @@ title: "Beliefs"
 description: "The beliefs about money, AI, work and community that love.fund is built on."
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Past: networks won, money moved to the virtual and debased the physical, and power concentrated.
+- Present: AI, crypto and atproto make it possible for networks, not just institutions, to fund things.
+- Future: an everything app with shared distribution, commanding heights that get given away, and an economy rebuilt around relationships.
+
+</details>
+
 These are the bets underneath everything love.fund does. If one turns out to be wrong, the strategy should change with it.
 
 ## Past

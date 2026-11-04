@@ -3,6 +3,15 @@ title: "Intro"
 description: "What an ontology is, and why ours informs everything love.fund does."
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- An ontology is your picture of what exists and what matters, and it shapes what you notice, measure and fund.
+- Mimetic tribes talk past each other because they work from different ontologies.
+- We write ours down, so we can examine it instead of just inheriting it.
+
+</details>
+
 ## What is an ontology?
 
 An ontology is a picture of what exists and how it relates. It's the set of basic categories you use to make sense of the world: what's real, what matters, what counts as value, and how things connect to each other.

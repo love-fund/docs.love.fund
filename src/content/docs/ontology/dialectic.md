@@ -3,6 +3,15 @@ title: Love x Fund
 description: Point your time, attention and money at what you actually love. That alignment changes a person, and enough changed people change a society.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Fund what you love, and love what you fund. The synthesis is money that flows like metta: unconditional and widening.
+- Tell real love from preferences and addictions, then check whether your time, attention and money follow it.
+- Money is one of six resources, alongside atoms, energy, bits, attention and creativity, and all of them should follow your values.
+
+</details>
+
 ## Why a dialectic
 
 A lot of the tensions we live with come as pairs that look opposed: love and money, sovereignty and interdependence, the individual and the collective. We usually treat them as a choice and pick a side.

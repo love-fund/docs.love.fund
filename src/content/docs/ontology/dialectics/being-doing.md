@@ -3,6 +3,15 @@ title: Being x Doing
 description: Inner practice and outward action. Love.fund asks for both, because changed people change society and action is how love becomes real.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Inner practice without action becomes withdrawal, and action without presence becomes burnout.
+- The synthesis is dharma: action that comes from presence.
+- Practice clarifies what you love, action tests it, and reflection deepens the practice.
+
+</details>
+
 ## The tension
 
 Being is the inner life: presence, practice, clarity about what you love. Metta, meditation, prayer and reflection all live here. Doing is the outer life: action, building, funding, organizing, impact in the world.

@@ -5,6 +5,14 @@ sidebar:
   order: 3
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Join the conversation in the love.fund Telegram or on the Gitcoin governance forum.
+- These docs are open source (CC BY-SA 4.0). Open a pull request on GitHub to improve any page.
+
+</details>
+
 ## Community
 
 The conversation happens in the [love.fund Telegram](https://t.me/+m3faFlCfyvcyMDdh).

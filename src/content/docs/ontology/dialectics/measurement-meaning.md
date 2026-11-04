@@ -3,6 +3,15 @@ title: Measurement x Meaning
 description: Funders want metrics, but the things people love often can't be counted. Good funding uses numbers without letting them decide what matters.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Measurement makes funding accountable, but what gets counted gets gamed (Goodhart's law).
+- The synthesis is measurement in service of meaning: people name what matters first, then numbers help them learn.
+- Use many signals, keep humans in the loop and measure to learn, not to rank.
+
+</details>
+
 ## The tension
 
 Measurement is how we know whether something is working: numbers, outcomes, evidence. Meaning is why the work matters at all: the love, the relationships, the story, the things that make a life or a place worth caring about.

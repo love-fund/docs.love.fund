@@ -3,6 +3,15 @@ title: Local x Global
 description: Rooted communities and planet-spanning networks need each other. The trick is connecting them without letting the global flatten the local.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Local communities are rooted but under-resourced. Global systems are powerful but flatten and extract.
+- The synthesis is cosmolocal: light things global, heavy things local.
+- Money and knowledge can come from anywhere, while decisions stay with the people who live there.
+
+</details>
+
 ## The tension
 
 The local is a particular place and its people: their land, language, knowledge and ways of living. The global is the planet-spanning web of capital, information, trade and networks that connects everyone.

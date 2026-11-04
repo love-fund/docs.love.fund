@@ -3,6 +3,15 @@ title: The Upward Spiral
 description: Heal a dualism at the individual level and the momentum rises, through families, communities and cities, all the way up to the planet.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Resolve a dualism in one person's life and the momentum climbs: to families, communities, cities and the planet.
+- A working spiral carries eight forms of capital upward, and money is only one of them.
+- Unresolved dualisms compound downward too. love.fund aims to start upward spirals everywhere.
+
+</details>
+
 Every dialectic in this section ends the same way: done well, each side makes the other stronger. That's what we call an upward spiral. 
 
 ![An upward spiral: colored strands twist upward and widen, carrying forms of capital up with them.](../../../assets/upward-spiral.svg)

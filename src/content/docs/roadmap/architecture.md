@@ -5,6 +5,15 @@ sidebar:
   order: 6
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- The proposed architecture is a regenerative loop: social graph and trust, AI capital allocation, productive ventures, then back.
+- It's built on Techne: people own their data on atproto, and apps share record types, permissioned spaces and AI agents.
+- That makes love.fund a family of apps in a shared ecosystem, where network effects belong to the commons.
+
+</details>
+
 We have compelling mechanisms for distributing capital, but not yet a complete system for turning funding relationships into durable, self-replenishing capital flows.
 
 **Proposed architecture:** a funding network that becomes more capable with every cycle of capital deployment and return.

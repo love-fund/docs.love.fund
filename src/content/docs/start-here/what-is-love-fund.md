@@ -5,6 +5,15 @@ sidebar:
   order: 1
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- love.fund is an everything app for funding what matters: pilots and campaigns that route money to the people and places we love.
+- Its applets share distribution and go-to-market, so each one builds momentum for the rest.
+- This site lays out love.fund's ontology, context and plan, for Gitcoin fans and for the AI agents helping steward it.
+
+</details>
+
 love.fund is an everything app that fund what matters.
 
 We facilitate pilots and campaigns that route money to the people and places we love. We give applets shared distribution and a shared go-to-market presence.  Each app solves a piece of the puzzle in its own way, builds network effects, and together the ecosystem is stronger for it - the app builds momentum for the entire ecosystem of applets.

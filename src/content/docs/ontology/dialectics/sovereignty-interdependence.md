@@ -3,6 +3,15 @@ title: Sovereignty x Interdependence
 description: Autonomy and belonging look opposed. Held well, each one makes the other stronger.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Too much sovereignty becomes isolation, and too much interdependence becomes dependency.
+- The synthesis is networked sovereignty: autonomy that grows through voluntary cooperation you can exit.
+- At the scale of a culture, the same tension is individualism and collectivism, and its synthesis is pluralism.
+
+</details>
+
 ## The tension
 
 Sovereignty is the ability to decide for yourself: your own values, your own resources, your own path. Interdependence is the fact that none of us make it alone. We rely on other people, on communities and on the living world for almost everything.

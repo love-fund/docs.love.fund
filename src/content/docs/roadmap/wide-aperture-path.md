@@ -5,6 +5,15 @@ sidebar:
   order: 3
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- The wide path is decentralized R&D: the community brings pilot ideas, and we screen, back and run the best ones.
+- A pilot needs a money source, an audience, a checkable outcome and a theory of change before we say yes.
+- Pilots that work graduate into ongoing love.fund campaigns with a sustainable, disclosed fee model.
+
+</details>
+
 The wide path is where we engage our community and inspire each other to dream big and try weird, experimental things. Think of it as decentralized R&D. Over time, we expect it to become a plugin ecosystem of bespoke funding networks.
 
 We take the best parts of GG24 (domain-driven allocations) and techne (localism focus), and become a domain-driven funder of neocrowdfunding pilots for localism.

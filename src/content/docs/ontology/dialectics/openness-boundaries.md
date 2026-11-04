@@ -3,6 +3,15 @@ title: Openness x Boundaries
 description: A commons anyone can join and a community that protects itself from capture. Healthy systems are open by default and bounded where it counts.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Open systems grow but get captured. Boundaries protect but can harden into walls.
+- The synthesis is a governed commons: open by default, bounded where it counts.
+- Boundaries can be membranes, set by the community that uses them.
+
+</details>
+
 ## The tension
 
 Openness means anyone can join, contribute, use and build on what's there. Boundaries mean some things are protected: who belongs, what's allowed, what can be taken out.

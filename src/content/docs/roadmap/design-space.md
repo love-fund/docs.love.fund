@@ -5,6 +5,15 @@ sidebar:
   order: 5
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Every era has reinvented resource allocation, from gift circles to quadratic funding, and the onchain AI era is next.
+- Every mechanism is a tradeoff, and some of the best combinations haven't been built yet.
+- The oldest, most relational mechanisms are coming back as a social safety net: an ancient future.
+
+</details>
+
 Every era, humanity has reinvented how resource allocation works from first principles. The new onchain AI era will be no different.
 
 We can study the past design space of how we funded what matters, and learn a lot from it. Who gets what, who decides, and how people eat has been redesigned again and again over 12,000 years, each time with new tools, new money and new ways of grouping people.

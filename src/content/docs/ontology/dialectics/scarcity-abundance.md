@@ -3,6 +3,15 @@ title: Scarcity x Abundance
 description: Love is infinite and resources are finite. Both are true, and the work is letting each shape the other.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Love is infinite and resources are finite. Both are true.
+- The synthesis is regenerative abundance: spend scarce money and time on things that multiply, like trust, knowledge and care.
+- Different resources behave differently, and much scarcity is manufactured.
+
+</details>
+
 ## The tension
 
 Scarcity is the fact that resources run out. There are only so many hours, so much energy, so much money and so much land. Abundance is the fact that some things grow when you share them: love, knowledge, trust, creativity.

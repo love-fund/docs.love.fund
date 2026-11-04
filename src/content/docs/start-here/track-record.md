@@ -5,6 +5,15 @@ sidebar:
   order: 1
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- love.fund grew out of Gitcoin, which has moved more than $60M through 230+ crowdfunding rounds since 2017.
+- The page collects the numbers, case studies, round retrospectives, Vitalik's reviews and the TED talk.
+- It ends with hard-won lessons from each Gitcoin era: gitcoin.co, GTC, Grants Stack and Allo Capital.
+
+</details>
+
 love.fund grew out of Gitcoin, which has spent 8 years running crowdfunding for public goods.
 
 ## By the numbers

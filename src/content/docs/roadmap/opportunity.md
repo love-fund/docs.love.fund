@@ -5,13 +5,18 @@ sidebar:
   order: 0
 ---
 
-**TLDR:**
+<details class="tldr" open>
+<summary>TL;DR</summary>
 
 0. Commanding heights = The chokepoints that control an economy, and the flows that run through them.
 1. Build the commanding heights of the traditional economy.
 2. Build the commanding heights of the [sacred economy](#seven-rails-for-a-sacred-economy).
 3. Build a funnel from 1 to 2.
 4. Progressively distribute ownership of the commanding heights in both economies.
+
+</details>
+
+
 
 ## The opportunity: build the rails that allocate capital in the AI economy
 

@@ -5,6 +5,15 @@ sidebar:
   order: 7
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Scenarios to think with, not predictions: one way love.fund fails and six ways it succeeds.
+- The failure mode is never getting past pilots, which is what Gitcoin's lessons are there to avoid.
+- The wins range from one app or many apps on atproto to an evolutionary arena for capital allocation and Techne at scale.
+
+</details>
+
 :::note
 These are scenarios to think with, not predictions or promises. Most likely, 2030 is some mix of them. None of them describes a return for GTC holders or anyone else: love.fund backers fund work, they don't invest in it.
 :::

@@ -3,6 +3,15 @@ title: Trust x Verification
 description: Relationships and proofs are two ways of knowing who to fund. Good systems use proof to extend trust, not replace it.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Trust is warm but doesn't scale. Verification scales but can become surveillance and exclusion.
+- The synthesis is verifiable trust: use relationships, vouching and reputation as evidence.
+- Match the level of proof to the stakes.
+
+</details>
+
 ## The tension
 
 Trust is believing in someone because of a relationship: you know them, someone you know vouches for them, or they've shown up before. Verification is checking: proof of identity, proof of work, audits, cryptographic guarantees.

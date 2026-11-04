@@ -5,6 +5,15 @@ sidebar:
   order: 1
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- North star: become the Kickstarter / GoFundMe of the AI/crypto era, by building something 10x better.
+- Three eras: pilots now, products in the next 12-24 months, a platform within 36 months.
+- Two paths: a rigorous narrow aperture path and a decentralized-R&D wide aperture path.
+
+</details>
+
 **TLDR:** fund what people love, at a scale and quality that isn't possible today.
 
 How: a crowdfunding platform that builds the rails that allocate capital in the AI economy

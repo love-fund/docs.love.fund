@@ -5,6 +5,15 @@ sidebar:
   order: 8
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- GTC is Gitcoin's governance token. It gives a voice in governance and no right to the revenue, profits or assets of Gitcoin, love.fund or Techne.
+- Gitcoin is incubating two ventures, Techne and love.fund, and GTC holders don't own them.
+- There is no buyback or burn program, and none is planned.
+
+</details>
+
 Technology and capital are compounding faster than any institution can steer them. GTC is Gitcoin's governance token, and the name describes what governance is for: helping steer that technocapital toward what matters, the people, places and public goods markets won't fund on their own. The "capital" in the name is the world's, not the token holders'.
 
 GTC is a governance token. It gives holders a voice in Gitcoin governance and no ownership of, and no right to the revenue, profits or assets of, Gitcoin, love.fund or Techne. Holding GTC is not an investment in any of them, and nothing on this page describes an expected return.

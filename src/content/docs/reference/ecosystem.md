@@ -5,6 +5,15 @@ sidebar:
   order: 1
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- love.fund is incubated at Gitcoin, whose governance runs on GTC.
+- Techne pushes forward consumer distribution, and love.fund pushes forward crowdfunding.
+- love.fund is where Techne and aligned projects can raise, and Techne can bring love.fund distribution.
+
+</details>
+
 :::note[stub]
 This page hasn't been written yet.
 :::

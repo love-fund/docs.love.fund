@@ -3,6 +3,15 @@ title: Gift x Exchange
 description: Gifts build relationships and exchange settles accounts. A sacred economy knows when money should behave like each.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Exchange is fair and scalable but transactional. Gifts build relationships but can be fragile or controlling.
+- The synthesis is a gift economy with good accounting: money that circulates like a gift and stays fair.
+- Wages and contracts should be clear exchanges, and some gifts should never be priced.
+
+</details>
+
 ## The tension
 
 An exchange is a trade between equals that ends when it's settled: I give you this, you give me that, and we're even. A gift is given without a price. It creates a bond, and it often keeps moving, passed on to someone else rather than paid back.

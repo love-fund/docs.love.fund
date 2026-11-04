@@ -3,6 +3,15 @@ title: Competition x Cooperation
 description: Competition pushes quality up and cooperation builds what nobody can build alone. Coopetition points the race at the commons.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Competition raises quality but can become a race to the bottom. Cooperation builds shared infrastructure but can go soft.
+- The synthesis is coopetition: compete to create more value for the commons.
+- The rules decide which game people play, and quadratic funding is designed so competing adds to the commons.
+
+</details>
+
 ## The tension
 
 Competition is people or projects trying to outdo each other: better work, a better price, more of the prize. Cooperation is people working together toward something they share, pooling effort so everyone ends up with more.

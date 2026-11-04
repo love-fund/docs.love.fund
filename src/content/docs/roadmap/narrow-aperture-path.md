@@ -5,6 +5,15 @@ sidebar:
   order: 2
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- The narrow path is a rigorous route to the love.fund platform, with a demo at app.love.fund.
+- 24 criteria cover intent, giving, delivery, growth and trust, revenue and operations, such as never charging small donors.
+- Its core IP is the funding graph, which connects funders, intent and causes.
+
+</details>
+
 The narrow path is a narrow and rigorous path for the future of funding, prefigured from our experience and a priori thinking. Over time, we expect it to develop into a platform that becomes the centerpiece of love.fund.
 
 **Demo:** [app.love.fund](http://app.love.fund/)

@@ -5,6 +5,15 @@ sidebar:
   order: 4
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Frontburner: QF and matching campaigns, Supertake for impact, trust-graph allocation and an atproto-native funding network.
+- Backburner: ideas like bioregional financing, a 501(c)(3) for local work and agent-to-agent funding.
+- These are ideas, not products, and anything that moves money gets legal review first.
+
+</details>
+
 These are areas we're interested in. They're ideas, not products: any experiment that holds or moves money, or touches investments or credit, goes through legal review before it ships.
 
 ## Frontburner

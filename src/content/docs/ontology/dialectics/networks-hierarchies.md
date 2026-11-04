@@ -3,6 +3,15 @@ title: Networks x Hierarchies
 description: Open networks and clear hierarchies look like rival ways to organize. The best structures use each where it fits.
 ---
 
+<details class="tldr" open>
+<summary>TL;DR</summary>
+
+- Hierarchies are fast and accountable but rigid. Networks are adaptive but can drift.
+- The synthesis is heterarchy: clear ownership inside small units and open connection between them.
+- Decide at the smallest level that can handle it, and let authority follow contribution.
+
+</details>
+
 ## The tension
 
 A hierarchy organizes people through clear lines of authority: someone decides, roles are defined, accountability runs up and down. A network organizes people through connection: many nodes, no single center, coordination that emerges from the edges.
