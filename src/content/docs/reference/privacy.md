@@ -2,7 +2,7 @@
 title: "Privacy"
 description: "What docs.love.fund collects, why, and how to opt out."
 sidebar:
-  order: 3
+  order: 4
 ---
 
 _Last updated: November 3, 2026._

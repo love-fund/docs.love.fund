@@ -7,9 +7,9 @@ sidebar:
 
 **TLDR:** fund what people love, at a scale and quality that isn't possible today.
 
-How: a crowdfunding platform that owns the rails that allocate capital in the AI economy
+How: a crowdfunding platform that builds the rails that allocate capital in the AI economy
 
-Why: own the commanding height(s) of the next era 
+Why: build the commanding height(s) of the next era, then distribute ownership to the people who use them 
 
 ## Principles
 

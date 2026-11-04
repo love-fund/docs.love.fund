@@ -9,7 +9,7 @@ The modern global economy is the system most of the world runs on: markets, capi
 
 They look opposed. The global economy is powerful, productive and connected, but it tends to extract, flatten difference and turn everything into a commodity. A sacred economy is rooted, meaningful and regenerative, but on its own it can be small, under-resourced and vulnerable to being overrun.
 
-This page looks at the tension between them, then at a picture of the journey from one to the other. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+This page looks at the tension between them, then at a picture of the journey from one to the other. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 
@@ -61,7 +61,7 @@ Two details stand out. First, it's woven: these threads only become an economy w
 
 ### What it means for love.fund
 
-This is a picture of what [Love x Fund](/start-here/dialectic/) is reaching for: money that serves what people love, rather than people serving money. It suggests a few things about how we fund:
+This is a picture of what [Love x Fund](/ontology/dialectic/) is reaching for: money that serves what people love, rather than people serving money. It suggests a few things about how we fund:
 
 - **Funding can be protective.** Sometimes the most useful thing money can do is give a community room to learn without having to sell out to survive.
 - **Let communities set the pace.** "When you feel ready" is their call, not the funder's.
@@ -93,4 +93,4 @@ The point is that the boundary is the community's to draw.
 
 The global economy without the sacred becomes extraction. The sacred without any interface to the wider world becomes fragile.
 
-Done well, each one feeds the other. A sacred economy gives money a compass, and the global economy gives the sacred the tools and reach to grow. This is what [Love x Fund](/start-here/dialectic/) is reaching for: money that serves what people love, rather than people serving money.
+Done well, each one feeds the other. A sacred economy gives money a compass, and the global economy gives the sacred the tools and reach to grow. This is what [Love x Fund](/ontology/dialectic/) is reaching for: money that serves what people love, rather than people serving money.

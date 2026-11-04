@@ -9,7 +9,7 @@ Openness means anyone can join, contribute, use and build on what's there. Bound
 
 They look opposed. Openness is generous, inclusive and fast-growing, but open systems can be captured, overrun or extracted from by people who take without giving. Boundaries protect a community's values and resources, but they can become walls that exclude, stagnate and turn into gatekeeping.
 
-The question is how to stay open without being captured. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The question is how to stay open without being captured. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

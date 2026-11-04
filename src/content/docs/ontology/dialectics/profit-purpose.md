@@ -9,7 +9,7 @@ Profit is what keeps an enterprise alive: revenue above costs, enough to pay peo
 
 They look opposed. Chase profit and purpose gets trimmed whenever it's expensive. Chase purpose and the money runs out. Most organizations end up picking one and apologizing for the other.
 
-The question is whether an enterprise can make money *because* it does good, rather than in spite of it. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The question is whether an enterprise can make money *because* it does good, rather than in spite of it. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

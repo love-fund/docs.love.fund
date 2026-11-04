@@ -21,9 +21,7 @@ const bigHeart = readFileSync(join(ROOT, 'src/assets/heart.svg'), 'utf8')
 // small label above the title, from where the page lives
 function eyebrow(id) {
 	if (!id) return 'START HERE';
-	if (id.startsWith('start-here/dialectics/')) return 'ONTOLOGY · DIALECTIC';
-	if (/^start-here\/(what-is-love-fund|track-record)$/.test(id)) return 'START HERE';
-	if (id.startsWith('start-here/')) return 'ONTOLOGY';
+	if (id.startsWith('ontology/dialectics/')) return 'ONTOLOGY · DIALECTIC';
 	return id.split('/')[0].replace(/-/g, ' ').toUpperCase();
 }
 

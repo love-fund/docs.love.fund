@@ -9,7 +9,7 @@ Measurement is how we know whether something is working: numbers, outcomes, evid
 
 They look opposed. Measurement makes funding accountable, comparable and scalable, but it tends to favor whatever is easy to count, and what gets counted gets gamed. Meaning keeps the work honest about its purpose, but it can be vague, unaccountable, and easy to claim without proof.
 
-This is a real tension for any funding mechanism, including love.fund. The question is how to measure without losing what matters. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+This is a real tension for any funding mechanism, including love.fund. The question is how to measure without losing what matters. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

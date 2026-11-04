@@ -2,7 +2,7 @@
 title: "Get involved"
 description: "Share an idea, list your organization or join the conversation."
 sidebar:
-  order: 2
+  order: 3
 ---
 
 ## Community

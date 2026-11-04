@@ -9,7 +9,7 @@ Scarcity is the fact that resources run out. There are only so many hours, so mu
 
 They look opposed. A scarcity mindset is prudent and realistic, but it can turn into hoarding, fear and zero-sum competition. An abundance mindset is generous and hopeful, but it can turn into denial, waste and promises nobody can keep.
 
-The [Love x Funding](/start-here/dialectic/) page says it plainly: love is infinite, resources are finite. The question is how to live with both. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The [Love x Funding](/ontology/dialectic/) page says it plainly: love is infinite, resources are finite. The question is how to live with both. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 
@@ -34,7 +34,7 @@ But different resources behave differently. Atoms and energy are finite. Bits co
 
 ## What it looks like in practice
 
-- **Know which resource you're dealing with.** The [six-part economy](/start-here/dialectic/#a-six-part-economy) (atoms, energy, bits, currency, attention, creativity) don't all run out the same way.
+- **Know which resource you're dealing with.** The [six-part economy](/ontology/dialectic/#a-six-part-economy) (atoms, energy, bits, currency, attention, creativity) don't all run out the same way.
 - **Spend scarce things on abundant ones.** Put limited money toward the commons, open knowledge and relationships that keep producing.
 - **Share what doesn't diminish.** Open source, open research, shared tools and stories.
 - **Watch for artificial scarcity.** Notice when "there isn't enough" really means "it's being held back."

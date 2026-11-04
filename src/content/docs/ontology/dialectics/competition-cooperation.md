@@ -9,7 +9,7 @@ Competition is people or projects trying to outdo each other: better work, a bet
 
 They look opposed. Competition sharpens people and weeds out what doesn't work, but it can turn into a race to the bottom where everyone cuts corners to win. Cooperation builds trust and shared infrastructure, but it can go soft, protect the people inside it and stop asking whether the work is any good.
 
-The question is whether you can set up the game so that competing makes the shared pie bigger instead of carving it up. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The question is whether you can set up the game so that competing makes the shared pie bigger instead of carving it up. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

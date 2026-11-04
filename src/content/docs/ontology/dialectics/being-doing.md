@@ -9,7 +9,7 @@ Being is the inner life: presence, practice, clarity about what you love. Metta,
 
 They look opposed. Inner work is grounding and wise, but it can turn into withdrawal, spiritual bypassing or navel-gazing while the world burns. Outer work is effective and urgent, but it can turn into burnout, busyness and action disconnected from any real love.
 
-The [Love x Funding](/start-here/dialectic/) page has a personal side (values, scorecards, dharma) and a systems side (money that flows like metta). This dialectic is about how they connect. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The [Love x Funding](/ontology/dialectic/) page has a personal side (values, scorecards, dharma) and a systems side (money that flows like metta). This dialectic is about how they connect. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

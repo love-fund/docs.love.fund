@@ -1,30 +1,18 @@
 ---
-// the dialectic pages used to live at /start-here/<slug>/ and moved to /start-here/dialectics/<slug>/.
-// these redirects carry the destination page's social card, so old links still unfurl.
+// old /start-here/<slug>/ urls. the ontology pages moved from /start-here/ to /ontology/, and the dialectics
+// before that lived at /start-here/<dialectic>/. these redirects carry the destination's social card, so old links still unfurl.
 import { getEntry } from 'astro:content';
 import Redirect from '../../components/Redirect.astro';
+import { DIALECTICS } from './dialectics/[legacy].astro';
 
 export function getStaticPaths() {
-	// getStaticPaths runs in isolation, so the list lives inside it
-	const DIALECTICS = [
-		'sovereignty-interdependence',
-		'profit-purpose',
-		'networks-hierarchies',
-		'gift-exchange',
-		'scarcity-abundance',
-		'measurement-meaning',
-		'local-global',
-		'short-long-term',
-		'trust-verification',
-		'openness-boundaries',
-		'competition-cooperation',
-		'being-doing',
-		'sacred-global-economy',
-	];
+	const PAGES = ['beliefs', 'fund-what-matters', 'beyond-dualism', 'dialectic', 'upward-spiral'];
 	return [
-		...DIALECTICS.map((slug) => ({ params: { legacy: slug }, props: { id: `start-here/dialectics/${slug}`, hash: '' } })),
+		{ params: { legacy: 'ontology' }, props: { id: 'ontology', hash: '' } },
+		...PAGES.map((slug) => ({ params: { legacy: slug }, props: { id: `ontology/${slug}`, hash: '' } })),
+		...DIALECTICS.map((slug) => ({ params: { legacy: slug }, props: { id: `ontology/dialectics/${slug}`, hash: '' } })),
 		// the old "from → to" page is now a section of the sacred economy dialectic
-		{ params: { legacy: 'from-to' }, props: { id: 'start-here/dialectics/sacred-global-economy', hash: '#towards-a-more-sacred-economy' } },
+		{ params: { legacy: 'from-to' }, props: { id: 'ontology/dialectics/sacred-global-economy', hash: '#towards-a-more-sacred-economy' } },
 	];
 }
 

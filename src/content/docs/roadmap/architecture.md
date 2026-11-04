@@ -66,7 +66,7 @@ That's what the [wide aperture path](/roadmap/wide-aperture-path/) needs: a plug
 
 ### 4. Lexicons are where the real leverage is
 
-If apps agree on what a "project," a "contribution," a "vouch" or a "funding flow" is, the definitions shape the whole economy built on top. Whoever writes the lexicons defines what counts as value. That makes them a place to encode the [sacred economy rails](/roadmap/opportunity/#rails-for-a-sacred-economy): record types for gifts and gratitude, not only transactions; for meaning in a community's own words, not only metrics. 
+If apps agree on what a "project," a "contribution," a "vouch" or a "funding flow" is, the definitions shape the whole economy built on top. Whoever writes the lexicons defines what counts as value. That makes them a place to encode the [sacred economy rails](/roadmap/opportunity/#seven-rails-for-a-sacred-economy): record types for gifts and gratitude, not only transactions; for meaning in a community's own words, not only metrics. 
 
 ### 5. Spaces are the boundary and the membrane
 

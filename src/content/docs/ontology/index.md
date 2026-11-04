@@ -25,7 +25,7 @@ What you see on social media these days is mostly these tribes talking past each
 
 That raises a hard question: how can we understand the points other people are making when we don't have an ontological transmission protocol, and most of us can't think from inside another ontology?
 
-Our starting point for this is [Beyond Dualism](/start-here/beyond-dualism/).
+Our starting point for this is [Beyond Dualism](/ontology/beyond-dualism/).
 
 ## Start with ontology
 
@@ -33,9 +33,9 @@ Our ontology informs everything we do: the mission, the roadmap, the mechanisms 
 
 So we try to make ours explicit. The pages in this section lay it out:
 
-- **[Mission: Fund What Matters](/start-here/fund-what-matters/)**: what we're for.
-- **[Beyond Dualism](/start-here/beyond-dualism/)**: how we work with opposites like love and money, rather than choosing between them.
-- **[Dialectic: Love x Funding](/start-here/dialectic/)** and the dialectics that follow: the tensions at the heart of a new economy, and what each side protects.
-- **[The Upward Spiral](/start-here/upward-spiral/)**: how those tensions, held well, feed each other and move upward.
+- **[Mission: Fund What Matters](/ontology/fund-what-matters/)**: what we're for.
+- **[Beyond Dualism](/ontology/beyond-dualism/)**: how we work with opposites like love and money, rather than choosing between them.
+- **[Dialectic: Love x Funding](/ontology/dialectic/)** and the dialectics that follow: the tensions at the heart of a new economy, and what each side protects.
+- **[The Upward Spiral](/ontology/upward-spiral/)**: how those tensions, held well, feed each other and move upward.
 
 It's a living ontology. We expect it to change as we learn, and we'd rather argue about it in the open than leave it unexamined.

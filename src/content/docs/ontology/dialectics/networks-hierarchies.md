@@ -9,7 +9,7 @@ A hierarchy organizes people through clear lines of authority: someone decides, 
 
 They look opposed. Hierarchies are fast, accountable and legible, but they can become rigid and concentrate power. Networks are adaptive, resilient and open, but they can become slow, diffuse and hard to steer. Most organizations swing between the two, centralizing when things feel chaotic and decentralizing when things feel stuck.
 
-The question is whether you can get the strengths of both without the failure modes of either. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The question is whether you can get the strengths of both without the failure modes of either. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

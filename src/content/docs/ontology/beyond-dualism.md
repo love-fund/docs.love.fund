@@ -11,6 +11,15 @@ We tend to treat these as binary choices - and much of contemporary discourse on
 
 The goal isn't always to choose a side. It's to find out what becomes possible when both sides interact.
 
+## Why this is useful
+
+The fruits of this exploration are:
+
+- **Innovation.** Apparent contradictions can point to design spaces nobody has explored.
+- **Coordination.** Opposing interests can become complementary incentives.
+- **Wisdom.** Holding competing truths keeps you from ideological rigidity.
+- **Systems design.** A good synthesis can turn a zero-sum tradeoff into a positive-sum feedback loop.
+
 ## Skillful Action
 
 There are a few skillful moves you can make with a pair of opposites, and it helps to be able to toggle between them.
@@ -42,15 +51,6 @@ A good synthesis keeps the strengths of both poles and opens up a new possibilit
 4. **Balance** the poles when synthesis isn't possible or isn't wanted.
 5. **Iterate**, because every synthesis produces new tensions of its own.
 
-## Why this is useful
-
-The fruits of this exploration are:
-
-- **Innovation.** Apparent contradictions can point to design spaces nobody has explored.
-- **Coordination.** Opposing interests can become complementary incentives.
-- **Wisdom.** Holding competing truths keeps you from ideological rigidity.
-- **Systems design.** A good synthesis can turn a zero-sum tradeoff into a positive-sum feedback loop.
-
 ## Where it breaks down
 
 Not every contradiction deserves a synthesis. Some differences can't be reconciled, and some values need hard boundaries. Sometimes a proposed synthesis is just a tradeoff in disguise.
@@ -76,17 +76,17 @@ The dialectics that follow this page in the sidebar each take one pair and work 
 
 | Dualism | Potential synthesis |
 | --- | --- |
-| [Love ↔ Money](/start-here/dialectic/) | Regenerative economics: capital flows toward what we care about |
-| [Sovereignty ↔ Interdependence](/start-here/dialectics/sovereignty-interdependence/) (including individualism ↔ collectivism) | Networked sovereignty: autonomy strengthened through voluntary cooperation |
-| [Profit ↔ Purpose](/start-here/dialectics/profit-purpose/) | Regenerative enterprise: creating economic value by creating social and ecological value |
-| [Networks ↔ Hierarchies](/start-here/dialectics/networks-hierarchies/) | Heterarchy: clear ownership inside small units, open connection between them |
-| [Gift ↔ Exchange](/start-here/dialectics/gift-exchange/) | A gift economy with good accounting: money that circulates like a gift and stays fair |
-| [Scarcity ↔ Abundance](/start-here/dialectics/scarcity-abundance/) | Regenerative abundance: spend finite resources on the things that multiply |
-| [Measurement ↔ Meaning](/start-here/dialectics/measurement-meaning/) | Measurement in service of meaning: people name what matters, numbers help them learn |
-| [Local ↔ Global](/start-here/dialectics/local-global/) | Cosmolocal: global networks of local communities |
-| [Short-term ↔ Long-term](/start-here/dialectics/short-long-term/) | Stewardship: meet today's needs in ways that build for generations |
-| [Trust ↔ Verification](/start-here/dialectics/trust-verification/) | Verifiable trust: proof that extends trust beyond the people you know |
-| [Openness ↔ Boundaries](/start-here/dialectics/openness-boundaries/) | A governed commons: open by default, bounded where it counts |
-| [Being ↔ Doing](/start-here/dialectics/being-doing/) | Dharma: action that comes from presence |
-| [Global economy ↔ Sacred economy](/start-here/dialectics/sacred-global-economy/) | A sacred economy that meets the global one on its own terms |
-| [Competition ↔ Cooperation](/start-here/dialectics/competition-cooperation/) | Coopetition: competing to create more value for the commons |
+| [Love ↔ Money](/ontology/dialectic/) | Regenerative economics: capital flows toward what we care about |
+| [Sovereignty ↔ Interdependence](/ontology/dialectics/sovereignty-interdependence/) (including individualism ↔ collectivism) | Networked sovereignty: autonomy strengthened through voluntary cooperation |
+| [Profit ↔ Purpose](/ontology/dialectics/profit-purpose/) | Regenerative enterprise: creating economic value by creating social and ecological value |
+| [Networks ↔ Hierarchies](/ontology/dialectics/networks-hierarchies/) | Heterarchy: clear ownership inside small units, open connection between them |
+| [Gift ↔ Exchange](/ontology/dialectics/gift-exchange/) | A gift economy with good accounting: money that circulates like a gift and stays fair |
+| [Scarcity ↔ Abundance](/ontology/dialectics/scarcity-abundance/) | Regenerative abundance: spend finite resources on the things that multiply |
+| [Measurement ↔ Meaning](/ontology/dialectics/measurement-meaning/) | Measurement in service of meaning: people name what matters, numbers help them learn |
+| [Local ↔ Global](/ontology/dialectics/local-global/) | Cosmolocal: global networks of local communities |
+| [Short-term ↔ Long-term](/ontology/dialectics/short-long-term/) | Stewardship: meet today's needs in ways that build for generations |
+| [Trust ↔ Verification](/ontology/dialectics/trust-verification/) | Verifiable trust: proof that extends trust beyond the people you know |
+| [Openness ↔ Boundaries](/ontology/dialectics/openness-boundaries/) | A governed commons: open by default, bounded where it counts |
+| [Being ↔ Doing](/ontology/dialectics/being-doing/) | Dharma: action that comes from presence |
+| [Global economy ↔ Sacred economy](/ontology/dialectics/sacred-global-economy/) | A sacred economy that meets the global one on its own terms |
+| [Competition ↔ Cooperation](/ontology/dialectics/competition-cooperation/) | Coopetition: competing to create more value for the commons |

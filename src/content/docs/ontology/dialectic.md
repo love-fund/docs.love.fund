@@ -13,7 +13,7 @@ It has limits. Some differences can't be reconciled, and some values need hard b
 
 Love and money is a good pair to try it on. Love without economic infrastructure struggles to scale. Money without love loses its compass. The aim is to make the tension between them productive rather than pick one.
 
-For more on working with opposites, including when to merge them and when to hold them apart, see [Beyond Dualism](/start-here/beyond-dualism/).
+For more on working with opposites, including when to merge them and when to hold them apart, see [Beyond Dualism](/ontology/beyond-dualism/).
 
 ## The dialectic
 

@@ -25,4 +25,4 @@ For the first time in history, we can fund things with networks instead. A group
 
 ## What this means for love.fund
 
-When the old funding paths are slow and the new ones are wide open, what we choose to fund matters more than it has in a long time. love.fund's answer is to fund what we love, and [Love x Fund](/start-here/dialectic/) explains what we mean by that.
+When the old funding paths are slow and the new ones are wide open, what we choose to fund matters more than it has in a long time. love.fund's answer is to fund what we love, and [Love x Fund](/ontology/dialectic/) explains what we mean by that.

@@ -9,7 +9,7 @@ An exchange is a trade between equals that ends when it's settled: I give you th
 
 They look opposed. Exchange is fair, clear and scalable, but it can turn every relationship into a transaction. Gifts are generous and binding, but they can be fragile, hard to scale, and sometimes carry hidden strings of obligation or control.
 
-The question is when money should behave like a gift, when it should behave like a trade, and whether one flow can do both. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The question is when money should behave like a gift, when it should behave like a trade, and whether one flow can do both. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

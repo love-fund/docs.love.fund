@@ -10,7 +10,7 @@ const EU = ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE
 export default defineConfig({
 	site: 'https://docs.love.fund',
 	// no `redirects` here: they emit bare pages that don't unfurl. '/' is src/pages/index.astro and the
-	// legacy /start-here/<dialectic>/ urls are src/pages/start-here/[legacy].astro, both with social cards.
+	// old /start-here/... urls (the ontology pages now live under /ontology/) are src/pages/start-here/, all with social cards.
 	integrations: [
 		starlight({
 			title: 'love.fund docs',
@@ -55,30 +55,31 @@ export default defineConfig({
 				{
 					label: 'Ontology',
 					items: [
-						{ label: 'Intro', slug: 'start-here/ontology' },
-						{ label: 'Mission: Fund What Matters', slug: 'start-here/fund-what-matters' },
-						{ label: 'Beyond Dualism', slug: 'start-here/beyond-dualism' },
-						{ label: 'Dialectic: Love x Funding', slug: 'start-here/dialectic' },
+						{ label: 'Intro', slug: 'ontology' },
+						{ label: 'Mission: Fund What Matters', slug: 'ontology/fund-what-matters' },
+						{ label: 'Beliefs', slug: 'ontology/beliefs' },
+						{ label: 'Beyond Dualism', slug: 'ontology/beyond-dualism' },
+						{ label: 'Dialectic: Love x Funding', slug: 'ontology/dialectic' },
 						{
 							label: 'More dialectics',
 							collapsed: true,
 							items: [
-								{ label: 'Dialectic: Sovereignty x Interdependence', slug: 'start-here/dialectics/sovereignty-interdependence' },
-								{ label: 'Dialectic: Profit x Purpose', slug: 'start-here/dialectics/profit-purpose' },
-								{ label: 'Dialectic: Networks x Hierarchies', slug: 'start-here/dialectics/networks-hierarchies' },
-								{ label: 'Dialectic: Gift x Exchange', slug: 'start-here/dialectics/gift-exchange' },
-								{ label: 'Dialectic: Scarcity x Abundance', slug: 'start-here/dialectics/scarcity-abundance' },
-								{ label: 'Dialectic: Measurement x Meaning', slug: 'start-here/dialectics/measurement-meaning' },
-								{ label: 'Dialectic: Local x Global', slug: 'start-here/dialectics/local-global' },
-								{ label: 'Dialectic: Short-term x Long-term', slug: 'start-here/dialectics/short-long-term' },
-								{ label: 'Dialectic: Trust x Verification', slug: 'start-here/dialectics/trust-verification' },
-								{ label: 'Dialectic: Openness x Boundaries', slug: 'start-here/dialectics/openness-boundaries' },
-								{ label: 'Dialectic: Competition x Cooperation', slug: 'start-here/dialectics/competition-cooperation' },
-								{ label: 'Dialectic: Being x Doing', slug: 'start-here/dialectics/being-doing' },
-								{ label: 'Dialectic: Sacred x Global Economy', slug: 'start-here/dialectics/sacred-global-economy' },
+								{ label: 'Dialectic: Sovereignty x Interdependence', slug: 'ontology/dialectics/sovereignty-interdependence' },
+								{ label: 'Dialectic: Profit x Purpose', slug: 'ontology/dialectics/profit-purpose' },
+								{ label: 'Dialectic: Networks x Hierarchies', slug: 'ontology/dialectics/networks-hierarchies' },
+								{ label: 'Dialectic: Gift x Exchange', slug: 'ontology/dialectics/gift-exchange' },
+								{ label: 'Dialectic: Scarcity x Abundance', slug: 'ontology/dialectics/scarcity-abundance' },
+								{ label: 'Dialectic: Measurement x Meaning', slug: 'ontology/dialectics/measurement-meaning' },
+								{ label: 'Dialectic: Local x Global', slug: 'ontology/dialectics/local-global' },
+								{ label: 'Dialectic: Short-term x Long-term', slug: 'ontology/dialectics/short-long-term' },
+								{ label: 'Dialectic: Trust x Verification', slug: 'ontology/dialectics/trust-verification' },
+								{ label: 'Dialectic: Openness x Boundaries', slug: 'ontology/dialectics/openness-boundaries' },
+								{ label: 'Dialectic: Competition x Cooperation', slug: 'ontology/dialectics/competition-cooperation' },
+								{ label: 'Dialectic: Being x Doing', slug: 'ontology/dialectics/being-doing' },
+								{ label: 'Dialectic: Sacred x Global Economy', slug: 'ontology/dialectics/sacred-global-economy' },
 							],
 						},
-						{ label: 'The Upward Spiral', slug: 'start-here/upward-spiral' },
+						{ label: 'The Upward Spiral', slug: 'ontology/upward-spiral' },
 					],
 				},
 				{ label: 'Roadmap', items: [{ autogenerate: { directory: 'roadmap' } }] },

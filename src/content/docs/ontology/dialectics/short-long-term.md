@@ -9,7 +9,7 @@ The short term is what needs doing now: rent, food, a crisis, a deadline, a proj
 
 They look opposed. Short-term focus is responsive and real, but it can become firefighting that never builds anything lasting. Long-term focus is wise and patient, but it can ignore people who are struggling right now, or become an excuse to never act.
 
-The question is how to meet urgent needs in ways that also build for the future. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The question is how to meet urgent needs in ways that also build for the future. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

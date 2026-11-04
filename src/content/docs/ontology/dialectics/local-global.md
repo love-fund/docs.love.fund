@@ -9,7 +9,7 @@ The local is a particular place and its people: their land, language, knowledge 
 
 They look opposed. Local communities are rooted, specific and accountable, but they can be isolated, under-resourced and parochial. Global systems are powerful, connected and resource-rich, but they tend to flatten difference, extract value and set the terms from far away.
 
-This connects closely to [Sovereignty x Interdependence](/start-here/dialectics/sovereignty-interdependence/) and to the picture in [Towards a More Sacred Economy](/start-here/dialectics/sacred-global-economy/#towards-a-more-sacred-economy). The question is how the global can serve the local rather than consume it. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+This connects closely to [Sovereignty x Interdependence](/ontology/dialectics/sovereignty-interdependence/) and to the picture in [Towards a More Sacred Economy](/ontology/dialectics/sacred-global-economy/#towards-a-more-sacred-economy). The question is how the global can serve the local rather than consume it. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 
@@ -36,7 +36,7 @@ But it can flow the other way too. Global capital and knowledge can move toward 
 
 - **Global funding, local decisions.** Money can come from anywhere. What to do with it gets decided by the people who live there.
 - **Shared knowledge, local adaptation.** Open tools and designs that each community shapes to its own place.
-- **Shield first, then interface.** As in [Towards a More Sacred Economy](/start-here/dialectics/sacred-global-economy/#towards-a-more-sacred-economy), communities build their own economy before they meet the global one on their own terms.
+- **Shield first, then interface.** As in [Towards a More Sacred Economy](/ontology/dialectics/sacred-global-economy/#towards-a-more-sacred-economy), communities build their own economy before they meet the global one on their own terms.
 - **Solidarity across places.** Local communities connecting to each other directly, not only through global intermediaries.
 
 ## When to hold them apart

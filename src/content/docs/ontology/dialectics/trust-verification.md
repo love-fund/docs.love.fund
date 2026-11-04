@@ -9,7 +9,7 @@ Trust is believing in someone because of a relationship: you know them, someone 
 
 They look opposed. Trust is warm, fast and human, but it doesn't scale beyond the people you know, and it can be exploited or turn into insider networks. Verification scales to strangers and resists fraud, but it can be cold, intrusive and expensive, and it can shut out people who don't fit the checklist.
 
-This is especially relevant to onchain funding, where anyone can create many wallets and Sybil attacks are a constant threat. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+This is especially relevant to onchain funding, where anyone can create many wallets and Sybil attacks are a constant threat. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 

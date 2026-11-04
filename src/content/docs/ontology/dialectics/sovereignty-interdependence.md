@@ -9,7 +9,7 @@ Sovereignty is the ability to decide for yourself: your own values, your own res
 
 They look opposed. More of one seems to mean less of the other. Lean too far toward sovereignty and you end up isolated. Lean too far toward interdependence and you end up dependent.
 
-The question is whether you can design for both at once. (For the general method, see [Beyond Dualism](/start-here/beyond-dualism/).)
+The question is whether you can design for both at once. (For the general method, see [Beyond Dualism](/ontology/beyond-dualism/).)
 
 ## The dialectic
 
@@ -34,7 +34,7 @@ That's true of ties you can't leave. It's much less true of ties you chose and c
 
 ## What it looks like in practice
 
-- **Communities that can say no.** In the [Towards a More Sacred Economy](/start-here/dialectics/sacred-global-economy/#towards-a-more-sacred-economy) picture, finance first shields a community from extraction while it builds its own economy, then lets it meet the wider economy on its own terms. That's sovereignty first, then interdependence by choice.
+- **Communities that can say no.** In the [Towards a More Sacred Economy](/ontology/dialectics/sacred-global-economy/#towards-a-more-sacred-economy) picture, finance first shields a community from extraction while it builds its own economy, then lets it meet the wider economy on its own terms. That's sovereignty first, then interdependence by choice.
 - **Funding without capture.** Money can connect a project to a wider network without handing over control of what the project is for.
 - **Federation over centralization.** Many small, self-governing groups that coordinate where it helps, rather than one big group that decides for everyone.
 - **Mutual aid.** People keep their independence and still show up for each other, because the relationship is reciprocal and freely chosen.

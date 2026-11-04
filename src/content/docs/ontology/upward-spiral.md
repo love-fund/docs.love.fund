@@ -25,7 +25,7 @@ If you resolve the dualisms and frictions inside a family, the family gets healt
 
 Each level is made of the one below it. A city is many communities, a community is many families, a family is a few people. So healing at the bottom isn't a small, private act. It's how the larger systems change, one layer at a time. Momentum starts at the individual level, bubbles up and builds as it rises.
 
-This is the same idea the [Love x Funding](/start-here/dialectic/) page starts from: changed people change a society.
+This is the same idea the [Love x Funding](/ontology/dialectic/) page starts from: changed people change a society.
 
 ## What travels up
 

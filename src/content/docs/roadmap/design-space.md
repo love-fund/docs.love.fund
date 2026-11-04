@@ -29,13 +29,13 @@ Each era didn't replace the last. It layered on top. Rotating savings clubs, mut
 - **The tools change what's possible.** Writing gave us ledgers, coins gave us markets, the internet gave us crowdfunding, and blockchains gave us programmable treasuries. AI agents are the next shift: allocation that can read context, relationships and impact at a scale no committee could.
 - **The design space is a landscape.** Think of every possible rule or mechanism as a point on a flat grid, and how well everyone does under it as the height. Most of history has been a slow walk across that landscape. We can now search it deliberately, by remixing known mechanisms and testing new ones.
 - **Some of the best points haven't been built yet.** Combinations like retroactive quadratic funding, or a bonding curve that prices attested impact instead of market demand, are a few small edits away from mechanisms we already know.
-- **The oldest mechanisms are the most relational.** Many of the [sacred economy rails](/roadmap/opportunity/#rails-for-a-sacred-economy) we want to build, like gift, trust, commons and federation, were the default in earlier eras. The opportunity is to bring them back with the reach of modern tools.
+- **The oldest mechanisms are the most relational.** Many of the [sacred economy rails](/roadmap/opportunity/#seven-rails-for-a-sacred-economy) we want to build, like gift, trust, commons and federation, were the default in earlier eras. The opportunity is to bring them back with the reach of modern tools.
 
 ## Ancient futures
 
 The design space doesn't only point forward. Some of the most important mechanisms are the oldest ones: gift circles, mutual aid, commons, rotating savings, redistribution feasts, the ethic of Ubuntu ("I am because we are"). They kept people fed and held for thousands of years, long before banks, insurers or welfare states existed.
 
-To borrow Helena Norberg-Hodge's phrase, the future we want looks more like an **ancient future**. Not a return to the past, but a chance to re-indigenize and re-relationalize ourselves: to remember that an economy is made of relationships, with each other and with the living world, and to rebuild it that way with the tools of this era. That's what a [sacred economy](/start-here/dialectics/sacred-global-economy/) is.
+To borrow Helena Norberg-Hodge's phrase, the future we want looks more like an **ancient future**. Not a return to the past, but a chance to re-indigenize and re-relationalize ourselves: to remember that an economy is made of relationships, with each other and with the living world, and to rebuild it that way with the tools of this era. That's what a [sacred economy](/ontology/dialectics/sacred-global-economy/) is.
 
 This matters now because the old systems are breaking down. Jobs are being automated faster than people can retrain, institutions people counted on are under strain, and the safety nets of the industrial era were built for a world that's going away. When they fray, what's left is what has always been there: community.
 
