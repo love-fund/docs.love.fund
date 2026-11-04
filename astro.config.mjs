@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 const GA = 'G-F5QVEN6V3V'; // same property as love.fund
-// regions where analytics cookies need consent (EEA + UK + CH); see /reference/privacy/
+// regions where analytics cookies need consent (EEA + UK + CH)
 const EU = ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH'];
 
 // https://astro.build/config
