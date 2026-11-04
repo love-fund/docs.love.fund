@@ -171,17 +171,50 @@ header.header {
 .sl-markdown-content details.tldr > summary::-webkit-details-marker {
 	display: none;
 }
+/* chevron in a small circle: points right when closed, down when open */
 .sl-markdown-content details.tldr > summary::before {
-	content: '';
-	width: 0.45em;
-	height: 0.45em;
-	border-right: 2px solid currentColor;
-	border-bottom: 2px solid currentColor;
-	transform: rotate(-45deg);
+	content: '›';
+	flex: none;
+	display: grid;
+	place-items: center;
+	width: 1.4rem;
+	height: 1.4rem;
+	padding-bottom: 0.1em;
+	border: 1px solid var(--tldr-border);
+	border-radius: 999px;
+	font-family: var(--sl-font);
+	font-size: 1.15rem;
+	line-height: 1;
 	transition: transform 0.15s ease;
 }
 .sl-markdown-content details.tldr[open] > summary::before {
-	transform: rotate(45deg);
+	transform: rotate(90deg);
+}
+/* a "show" / "hide" label on the right of the summary row */
+.sl-markdown-content details.tldr > summary::after {
+	content: 'show';
+	margin-inline-start: auto;
+	font-size: var(--sl-text-xs);
+	font-weight: 500;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	opacity: 0.75;
+}
+.sl-markdown-content details.tldr[open] > summary::after {
+	content: 'hide';
+}
+.sl-markdown-content details.tldr > summary:hover::after {
+	opacity: 1;
+	text-decoration: underline;
+	text-underline-offset: 0.2em;
+}
+/* closed: a slim, dashed bar so it reads as folded away */
+.sl-markdown-content details.tldr:not([open]) {
+	padding-block: 0.5rem;
+	border-inline-start-style: dashed;
+	background-color: transparent;
+	outline: 1px dashed var(--tldr-border);
+	outline-offset: -1px;
 }
 .sl-markdown-content details.tldr > :is(ul, ol) {
 	margin-top: 0.5rem;
@@ -190,4 +223,31 @@ header.header {
 	.sl-markdown-content details.tldr > summary::before {
 		transition: none;
 	}
+}
+
+/* "designed in the open" strip across the top (src/components/Header.astro):
+   grow the fixed header by the strip's height so everything below starts under it */
+:root {
+	--lf-banner-h: 2.25rem;
+	--sl-nav-height: calc(3.5rem + var(--lf-banner-h));
+}
+@media (min-width: 50em) {
+	:root {
+		--sl-nav-height: calc(4rem + var(--lf-banner-h));
+	}
+}
+header.header {
+	padding-top: calc(var(--lf-banner-h) + var(--sl-nav-pad-y));
+}
+/* the site title sizes itself off the nav height; keep it to the original bar */
+.site-title {
+	height: calc(var(--sl-nav-height) - var(--lf-banner-h) - 2 * var(--sl-nav-pad-y));
+}
+/* center the mobile menu button in the bar, not in bar + strip */
+.sl-menu-button {
+	top: calc(var(--lf-banner-h) + (var(--sl-nav-height) - var(--lf-banner-h) - var(--sl-menu-button-size)) / 2) !important;
+}
+/* strip dismissed: collapse it so the header goes back to its normal height */
+:root[data-lf-banner-hidden] {
+	--lf-banner-h: 0px;
 }

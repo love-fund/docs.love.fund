@@ -25,7 +25,7 @@ export default defineConfig({
 				SiteTitle: './src/components/SiteTitle.astro',
 				Head: './src/components/Head.astro',
 				Footer: './src/components/Footer.astro',
-				PageTitle: './src/components/PageTitle.astro',
+				Header: './src/components/Header.astro',
 			},
 			head: [
 				{ tag: 'link', attrs: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },

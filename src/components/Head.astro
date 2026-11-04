@@ -16,3 +16,10 @@ const card = new URL(`/og/${file}.png`, Astro.site).href;
 <meta property="og:image:height" content="630" />
 <meta property="og:image:alt" content={Astro.locals.starlightRoute.entry.data.title} />
 <meta name="twitter:image" content={card} />
+<script is:inline>
+	// hide the "designed in the open" strip before first paint if it was dismissed recently (see Header.astro)
+	try {
+		var until = Number(localStorage.getItem('lf-banner-dismissed-until'));
+		if (until && Date.now() < until) document.documentElement.setAttribute('data-lf-banner-hidden', '');
+	} catch (e) {}
+</script>
