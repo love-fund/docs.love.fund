@@ -14,15 +14,10 @@ sidebar:
 
 </details>
 
-:::note[stub]
-This page hasn't been written yet.
-:::
 
 ## Gitcoin
 
 love.fund is a mainstream continuation of the Gitcoin mission, and it's being incubated at Gitcoin, whose governance runs on GTC.
-
-GTC is a governance token. Holding it gives no right to love.fund's revenue, profits or assets, and nothing on this site is an offer to buy or sell GTC or any other token.
 
 ## techne
 

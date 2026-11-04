@@ -14,15 +14,16 @@ sidebar:
 
 </details>
 
-:::note
-These are scenarios to think with, not predictions or promises. Most likely, 2030 is some mix of them. None of them describes a return for GTC holders or anyone else: love.fund backers fund work, they don't invest in it.
-:::
 
 It's 2030. How did it go?
 
+:::note
+These are scenarios to think with, not predictions or promises. Most likely, 2030 is some mix of them. None of them describes a return for GTC holders or anyone else.
+:::
+
 ## NGMI
 
-love.fund never gets past pilots. The campaigns don't pay their way, donors don't come back after the first round, and the brand fades into the long list of crypto funding experiments that didn't make it. Gitcoin's lessons get written up one more time, and someone else builds the Kickstarter for the AI era.
+love.fund never seriuosly gets past pilots. The campaigns don't pay their way, donors don't come back after the first round, and the brand fades into the long list of crypto funding experiments that didn't make it. Gitcoin's lessons get written up one more time, and someone else builds the Kickstarter for the AI era.
 
 This is the path the [lessons in the track record](/start-here/track-record/#lessons) are there to avoid: size the team to the market, make campaigns pay their way, and ship.
 
