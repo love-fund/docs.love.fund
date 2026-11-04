@@ -1,0 +1,23 @@
+---
+// starlight's footer, plus the site-wide disclaimer at the very bottom of every page
+import Default from '@astrojs/starlight/components/Footer.astro';
+---
+
+<Default />
+<p class="disclaimer">
+	Disclaimer: This resource is for informative purposes only and is not financial advice. This resource reflects the personal views of members of the Gitcoin community, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in this resource is subject to change as we continue learning. This resource may contain estimates, may contain errors, and is provided on a best-effort basis. Double-check any information that isn't onchain, and don't make financial decisions based on this resource. Nothing here is an offer to sell, or a solicitation to buy, any security, token or investment. GTC is a governance token and gives holders no right to the revenue, profits or assets of Gitcoin or love.fund. Mentions of other organizations don't imply a partnership or endorsement unless stated. Content is licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <a href="/reference/privacy/">Privacy</a>.
+</p>
+
+<style>
+	.disclaimer {
+		margin-top: 2rem;
+		padding-top: 1rem;
+		border-top: 1px solid var(--sl-color-gray-5);
+		font-size: var(--sl-text-xs);
+		line-height: 1.5;
+		color: var(--sl-color-gray-3);
+	}
+	.disclaimer a {
+		color: inherit;
+	}
+</style>

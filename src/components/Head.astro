@@ -1,0 +1,18 @@
+---
+// starlight's head, plus a per-page social card from public/og/<page>.png (rendered by scripts/og.mjs)
+import { existsSync } from 'node:fs';
+import Default from '@astrojs/starlight/components/Head.astro';
+const { id } = Astro.locals.starlightRoute;
+// cards are flat files: start-here/what-is-love-fund -> og/start-here-what-is-love-fund.png
+const name = (id || 'home').replace(/\//g, '-');
+// pages without their own card (like the 404) fall back to the home card
+const file = existsSync(`public/og/${name}.png`) ? name : 'home';
+const card = new URL(`/og/${file}.png`, Astro.site).href;
+---
+
+<Default />
+<meta property="og:image" content={card} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content={Astro.locals.starlightRoute.entry.data.title} />
+<meta name="twitter:image" content={card} />

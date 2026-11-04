@@ -1,0 +1,116 @@
+---
+// starlight's page title, with the site-wide "actively being designed" notice just above it,
+// inside the content column so it shares the page's margins and type.
+// dismissable for the current page view only: it comes back on refresh or the next page.
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+---
+
+<div class="lf-notice" id="lf-notice" role="note" data-pagefind-ignore>
+	<svg class="lf-notice__icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+		<path d="M12 3.2 2.6 19.5a1 1 0 0 0 .87 1.5h17.06a1 1 0 0 0 .87-1.5L12 3.2Z" fill="currentColor"></path>
+		<path d="M12 9.5v5" stroke="var(--lf-notice-bg)" stroke-width="2.2" stroke-linecap="round"></path>
+		<circle cx="12" cy="17.6" r="1.25" fill="var(--lf-notice-bg)"></circle>
+	</svg>
+	<p>
+		<strong>love.fund is being designed in the open.</strong>{' '}
+		These are our working docs. Things are changing fast, and we'd rather get the foundations right than rush them. Expect a firmer path forward by Q1 2027. Have feedback?{' '}
+		<a href="/reference/get-involved/">Get involved and let us know →</a>
+		<span class="lf-notice__sig">— owocki</span>
+	</p>
+	<button type="button" class="lf-notice__close" aria-label="Dismiss this notice" title="Dismiss">
+		<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
+			<path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" fill="none"></path>
+		</svg>
+	</button>
+</div>
+<script is:inline>
+	(function () {
+		var el = document.getElementById('lf-notice');
+		if (!el) return;
+		el.querySelector('.lf-notice__close').addEventListener('click', function () {
+			el.hidden = true;
+		});
+	})();
+</script>
+<Default />
+
+<style>
+	.lf-notice {
+		/* a quiet orange tint: dark theme by default, light theme below */
+		--lf-notice-bg: oklch(26% 0.045 55);
+		--lf-notice-edge: oklch(45% 0.09 58);
+		--lf-notice-accent: oklch(76% 0.14 60);
+		--lf-notice-ink: var(--sl-color-gray-2);
+		position: relative;
+		display: flex;
+		gap: 0.75rem;
+		align-items: flex-start;
+		margin: 0 0 1.5rem;
+		padding: 0.9rem 2.75rem 0.9rem 1rem;
+		border-radius: 0.5rem;
+		background: var(--lf-notice-bg);
+		border: 1px solid var(--lf-notice-edge);
+		color: var(--lf-notice-ink);
+		font-family: var(--sl-font);
+		font-size: var(--sl-text-body);
+		line-height: var(--sl-line-height);
+	}
+	.lf-notice[hidden] {
+		display: none;
+	}
+	.lf-notice p {
+		margin: 0;
+	}
+	:global([data-theme='light']) .lf-notice {
+		--lf-notice-bg: oklch(96% 0.03 65);
+		--lf-notice-edge: oklch(85% 0.07 62);
+		--lf-notice-accent: oklch(60% 0.15 50);
+	}
+	.lf-notice a {
+		color: var(--lf-notice-accent);
+		font-weight: 600;
+		text-underline-offset: 0.2em;
+	}
+	.lf-notice a:hover {
+		color: var(--sl-color-white);
+	}
+	.lf-notice__sig {
+		display: block;
+		margin-top: 0.35rem;
+		font-style: italic;
+		color: var(--sl-color-gray-3);
+	}
+	.lf-notice strong {
+		font-family: var(--sl-font-display);
+		font-weight: 600;
+		color: var(--sl-color-white);
+	}
+	.lf-notice__icon {
+		flex: none;
+		margin-top: 0.2rem;
+		color: var(--lf-notice-accent);
+	}
+	.lf-notice__close {
+		position: absolute;
+		top: 0.6rem;
+		right: 0.6rem;
+		display: grid;
+		place-items: center;
+		width: 1.75rem;
+		height: 1.75rem;
+		padding: 0;
+		border: 0;
+		border-radius: 999px;
+		background: transparent;
+		color: var(--sl-color-gray-3);
+		cursor: pointer;
+	}
+	.lf-notice__close:hover {
+		background: var(--lf-notice-edge);
+		color: var(--sl-color-white);
+	}
+	.lf-notice__close:focus-visible {
+		outline: 2px solid var(--lf-notice-accent);
+		outline-offset: 2px;
+	}
+</style>

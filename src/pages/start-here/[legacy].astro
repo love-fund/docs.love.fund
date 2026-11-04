@@ -1,0 +1,41 @@
+---
+// the dialectic pages used to live at /start-here/<slug>/ and moved to /start-here/dialectics/<slug>/.
+// these redirects carry the destination page's social card, so old links still unfurl.
+import { getEntry } from 'astro:content';
+import Redirect from '../../components/Redirect.astro';
+
+export function getStaticPaths() {
+	// getStaticPaths runs in isolation, so the list lives inside it
+	const DIALECTICS = [
+		'sovereignty-interdependence',
+		'profit-purpose',
+		'networks-hierarchies',
+		'gift-exchange',
+		'scarcity-abundance',
+		'measurement-meaning',
+		'local-global',
+		'short-long-term',
+		'trust-verification',
+		'openness-boundaries',
+		'competition-cooperation',
+		'being-doing',
+		'sacred-global-economy',
+	];
+	return [
+		...DIALECTICS.map((slug) => ({ params: { legacy: slug }, props: { id: `start-here/dialectics/${slug}`, hash: '' } })),
+		// the old "from → to" page is now a section of the sacred economy dialectic
+		{ params: { legacy: 'from-to' }, props: { id: 'start-here/dialectics/sacred-global-economy', hash: '#towards-a-more-sacred-economy' } },
+	];
+}
+
+const { id, hash } = Astro.props;
+const entry = await getEntry('docs', id);
+if (!entry) throw new Error(`legacy redirect target missing: ${id}`);
+---
+
+<Redirect
+	to={`/${id}/${hash}`}
+	title={entry.data.title}
+	description={entry.data.description ?? ''}
+	card={id.replace(/\//g, '-')}
+/>

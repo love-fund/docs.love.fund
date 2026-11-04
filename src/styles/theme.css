@@ -1,0 +1,144 @@
+/* love.fund brand on top of starlight. tokens come from love.fund/tokens.css (oklch, dark plum + rose). */
+
+:root {
+	--lf-rose: oklch(68% 0.17 15);
+	--lf-gold: oklch(80% 0.12 85);
+
+	--sl-font: 'Newsreader', ui-serif, Georgia, serif;
+	--sl-font-display: 'Fraunces', ui-serif, Georgia, serif;
+	--sl-font-fund: 'Chakra Petch', ui-sans-serif, system-ui, sans-serif;
+	--sl-text-base: 1.0625rem;
+	--sl-text-body: 1.0625rem;
+	--sl-line-height: 1.7;
+
+	/* dark (default): the love.fund site palette */
+	--sl-color-white: oklch(96% 0.01 40);
+	--sl-color-gray-1: oklch(93% 0.01 40);
+	--sl-color-gray-2: oklch(84% 0.012 40);
+	--sl-color-gray-3: oklch(68% 0.012 40);
+	--sl-color-gray-4: oklch(46% 0.02 320);
+	--sl-color-gray-5: oklch(32% 0.02 320);
+	--sl-color-gray-6: oklch(19% 0.022 320);
+	--sl-color-black: oklch(15% 0.02 320);
+
+	--sl-color-accent-low: oklch(30% 0.07 15);
+	--sl-color-accent: oklch(68% 0.15 15);
+	--sl-color-accent-high: oklch(78% 0.1 15);
+
+	--sl-color-bg-nav: oklch(17% 0.021 320);
+	--sl-color-bg-sidebar: oklch(17% 0.021 320);
+
+	/* notes (asides) use the blue slot: make it plum + gold instead of starlight blue */
+	--sl-color-blue-low: oklch(24% 0.045 320);
+	--sl-color-blue: oklch(80% 0.12 85);
+	--sl-color-blue-high: oklch(90% 0.05 85);
+}
+
+:root[data-theme='light'] {
+	/* light: the warm paper the brand started from (paper 97.5% / accent 55%) */
+	--sl-color-white: oklch(20% 0.02 320);
+	--sl-color-gray-1: oklch(26% 0.02 320);
+	--sl-color-gray-2: oklch(34% 0.018 320);
+	--sl-color-gray-3: oklch(48% 0.015 40);
+	--sl-color-gray-4: oklch(64% 0.012 40);
+	--sl-color-gray-5: oklch(84% 0.012 40);
+	--sl-color-gray-6: oklch(93% 0.01 40);
+	--sl-color-gray-7: oklch(95.5% 0.009 40);
+	--sl-color-black: oklch(97.5% 0.008 40);
+
+	--sl-color-accent-low: oklch(91% 0.04 15);
+	--sl-color-accent: oklch(55% 0.15 20);
+	--sl-color-accent-high: oklch(40% 0.12 20);
+
+	--sl-color-bg-nav: oklch(95.5% 0.009 40);
+	--sl-color-bg-sidebar: oklch(97.5% 0.008 40);
+
+	--sl-color-blue-low: oklch(93% 0.03 85);
+	--sl-color-blue: oklch(62% 0.12 75);
+	--sl-color-blue-high: oklch(38% 0.08 70);
+}
+
+/* headings in the display serif, like the love.fund reading pages */
+.sl-markdown-content :is(h1, h2, h3, h4),
+h1#_top {
+	font-family: var(--sl-font-display);
+	font-weight: 600;
+	letter-spacing: -0.015em;
+}
+.sl-markdown-content h2 {
+	margin-top: 2.6rem;
+}
+
+/* tables: the six-part economy etc */
+.sl-markdown-content table {
+	font-size: 0.95em;
+}
+.sl-markdown-content th {
+	font-family: var(--sl-font-fund);
+	font-weight: 600;
+	letter-spacing: 0.04em;
+	text-transform: lowercase;
+}
+
+/* the hairline under the site header picks up a little rose */
+header.header {
+	border-bottom-color: color-mix(in oklab, var(--sl-color-accent) 22%, var(--sl-color-hairline-shade));
+}
+
+/* body copy 15% larger than the base 1.0625rem (lists match, so bullets don't look smaller than prose) */
+.sl-markdown-content :is(p, li) {
+	font-size: calc(1.0625rem * 1.15);
+}
+
+/* video card: a thumbnail you see before you watch (track record → TED talk) */
+.sl-markdown-content .ted-card {
+	display: block;
+	max-width: 40rem;
+	overflow: hidden;
+	border: 1px solid var(--sl-color-gray-5);
+	border-radius: 0.75rem;
+	background: var(--sl-color-gray-6);
+	color: inherit;
+	text-decoration: none;
+	transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.sl-markdown-content .ted-card:hover {
+	border-color: var(--sl-color-accent);
+	transform: translateY(-2px);
+}
+.sl-markdown-content .ted-card__body {
+	display: block;
+	padding: 1rem 1.25rem 1.2rem;
+}
+.sl-markdown-content .ted-card__eyebrow {
+	display: block;
+	font-family: var(--sl-font-fund);
+	font-size: var(--sl-text-xs);
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: var(--sl-color-accent);
+}
+.sl-markdown-content .ted-card__title {
+	display: block;
+	margin-top: 0.35rem;
+	font-family: var(--sl-font-display);
+	font-size: var(--sl-text-h4);
+	font-weight: 600;
+	line-height: var(--sl-line-height-headings);
+	color: var(--sl-color-white);
+}
+.sl-markdown-content .ted-card__desc {
+	display: block;
+	margin-top: 0.4rem;
+	font-size: var(--sl-text-sm);
+	line-height: 1.55;
+	color: var(--sl-color-gray-2);
+}
+@media (prefers-reduced-motion: reduce) {
+	.sl-markdown-content .ted-card {
+		transition: none;
+	}
+	.sl-markdown-content .ted-card:hover {
+		transform: none;
+	}
+}

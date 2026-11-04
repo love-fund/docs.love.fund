@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 18">
+  <defs>
+    <clipPath id="l"><rect x="0" y="0" width="10" height="18" /></clipPath>
+    <clipPath id="r"><rect x="10" y="0" width="10" height="18" /></clipPath>
+  </defs>
+  <g transform="translate(20,0) scale(-1,1)">
+    <path clip-path="url(#l)" fill="#e0796f" stroke="#f0e9e2" stroke-width="0.6"
+          d="M 10 6.2 C 10 4.4, 8.4 3, 6.8 3 C 4.6 3, 3.2 4.6, 3.2 6.6 C 3.2 9.6, 6.8 11.9, 10 14.8 C 13.2 11.9, 16.8 9.6, 16.8 6.6 C 16.8 4.6, 15.4 3, 13.2 3 C 11.6 3, 10 4.4, 10 6.2 Z" />
+    <path clip-path="url(#r)" fill="none" stroke="#cfc4bb" stroke-width="1.5"
+          d="M 10 6.2 C 10 4.4, 8.4 3, 6.8 3 C 4.6 3, 3.2 4.6, 3.2 6.6 C 3.2 9.6, 6.8 11.9, 10 14.8 C 13.2 11.9, 16.8 9.6, 16.8 6.6 C 16.8 4.6, 15.4 3, 13.2 3 C 11.6 3, 10 4.4, 10 6.2 Z" />
+    <g fill="none" stroke="#cfc4bb" stroke-width="0.7">
+      <path d="M 10 5.6 H 12.4 V 7.2 H 14.6" />
+      <path d="M 10 8.8 H 11.9 V 10.6 H 13.4" />
+      <path d="M 10 12 H 11.5" />
+    </g>
+    <g fill="#cfc4bb">
+      <circle cx="14.6" cy="7.2" r="0.6" />
+      <circle cx="13.4" cy="10.6" r="0.6" />
+      <circle cx="11.5" cy="12" r="0.55" />
+    </g>
+    <rect x="12.9" y="4.6" width="1.5" height="1.5" fill="none" stroke="#cfc4bb" stroke-width="0.6" />
+  </g>
+</svg>
