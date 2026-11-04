@@ -52,6 +52,22 @@ The commanding heights are the chokepoints that control an economy, and the flow
 
 See [Opportunity](/roadmap/opportunity/).
 
+## Technology is moving fast
+
+AI is reshaping work faster than people can retrain for it. Big Tech is spending hundreds of billions of dollars a year on compute, while tech companies cut jobs by the thousands.
+
+Crypto spent the last decade building rails that move value across the internet with no bank in the middle. Open source software, cheap hardware and AI tools keep lowering the cost for strangers to build something together.
+
+## The world order is shifting
+
+Trade routes, alliances and supply chains that looked settled ten years ago are being renegotiated in real time. That leaves a lot of people asking which institutions they can still count on, and where they'd go for help if the answer is fewer than they thought.
+
+## Networks can fund things now
+
+For most of modern history, funding anything meant going through an institution built for the industrial era: a bank, a government program, a foundation with a board and an annual grant cycle, a corporate budget. Those institutions make a small number of large decisions slowly, and they ask everyone else to trust the few people inside.
+
+For the first time in history, we can fund things with networks instead. A group of people who may never meet can pool money and decide together where it goes, in public, at internet speed and at any size. Gitcoin has done this for 8 years and moved more than $60M through 230+ rounds that way (see the [track record](/start-here/track-record/)).
+
 ## Crypto makes money programmable
 
 Money used to move only as fast as banks and paperwork allowed. Now it can carry rules: match this donation, stream this grant, release this payment when the work is done, send a share upstream. Funding mechanisms that used to need an institution can now be written as software.

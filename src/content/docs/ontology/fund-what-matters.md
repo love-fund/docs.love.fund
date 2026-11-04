@@ -1,28 +1,22 @@
 ---
 title: "Fund What Matters"
-description: "Our mission is to Fund What Matters, and AI, crypto and a shifting world order are changing how that gets done."
+description: "Our mission is to Fund What Matters: a world where the things people depend on and love are funded well, not last."
 ---
 
 Our mission is to **Fund What Matters**.
 
-The way that happens is changing fast. A lot is moving at once, and most of it touches how money moves.
+## A world where what matters is funded well
 
-## Technology is moving fast
+Today, the things that matter most are often funded last. Care work, local places, open source, public goods, ecosystems and the people holding communities together run on leftover money, volunteer hours and grant cycles that end before the work does. 
 
-AI is reshaping work faster than people can retrain for it. Big Tech is spending hundreds of billions of dollars a year on compute, while tech companies cut jobs by the thousands.
+A world where what matters is funded well would look different:
 
-Crypto spent the last decade building rails that move value across the internet with no bank in the middle. Open source software, cheap hardware and AI tools keep lowering the cost for strangers to build something together.
+- **Funding is steady, not heroic.** People doing essential work don't spend half their time asking for money. Support arrives on a rhythm they can plan around, for years, not one grant at a time.
+- **Money follows what people actually value.** Anyone can point their money at the people and places they love, and many small gifts can count for more than one large check.
+- **Decisions sit close to the work.** The people who know a place or a problem help decide where the money goes, and anyone can see where it went and what it did.
+- **What can't be priced still gets paid for.** A forest, a tradition, a neighbor who checks on the elderly: the work markets miss has a reliable way to get funded anyway.
+- **Funding builds relationships.** Giving leaves people more connected to each other and to where they live, not just settled up.
 
-## The world order is shifting
+None of this needs new values. Most people already know what matters to them. What's missing is the rails: ways to pool money, decide together, trust each other at scale and see results, that are as easy to use as the rails built for extraction. Our [beliefs](/ontology/beliefs/) explain why we think those rails are possible now.
 
-Trade routes, alliances and supply chains that looked settled ten years ago are being renegotiated in real time. That leaves a lot of people asking which institutions they can still count on, and where they'd go for help if the answer is fewer than they thought.
 
-## Networks can fund things now
-
-For most of modern history, funding anything meant going through an institution built for the industrial era: a bank, a government program, a foundation with a board and an annual grant cycle, a corporate budget. Those institutions make a small number of large decisions slowly, and they ask everyone else to trust the few people inside.
-
-For the first time in history, we can fund things with networks instead. A group of people who may never meet can pool money and decide together where it goes, in public, at internet speed and at any size. Gitcoin has done this for 8 years and moved more than $60M through 230+ rounds that way (see the [track record](/start-here/track-record/)).
-
-## What this means for love.fund
-
-When the old funding paths are slow and the new ones are wide open, what we choose to fund matters more than it has in a long time. love.fund's answer is to fund what we love, and [Love x Fund](/ontology/dialectic/) explains what we mean by that.
