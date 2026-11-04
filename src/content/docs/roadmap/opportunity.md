@@ -5,10 +5,6 @@ sidebar:
   order: 0
 ---
 
-:::note
-This page maps market categories, not services love.fund offers. love.fund doesn't offer investments, loans, credit decisions, escrow or financial advice. Anything in those categories would only ship through properly licensed partners, after legal review.
-:::
-
 **TLDR:**
 
 0. Commanding heights = The chokepoints that control an economy, and the flows that run through them.
@@ -64,3 +60,7 @@ A few things stand out:
 - **The rails don't map one-to-one.** Shield, weave and gift roughly correspond to the trad commanding heights. Meaning, membrane and federation have no equivalent, because the commodified economy doesn't need them. 
 - **Commanding heights control chokepoints. Sacred rails are membranes and circulation.** You win the old economy by owning the bottleneck. A sacred economy works when value circulates and each community holds its own boundary.
 - **The bridge runs through the membrane.** The rails we run in the commodified economy feed money into the membrane, which translates it into the sacred economy. As we progressively decentralize, the membrane is the part we most need to hand to communities.
+
+:::note
+Disclaimer: This page maps market categories, not services love.fund offers. love.fund doesn't offer investments, loans, credit decisions, escrow or financial advice. Anything in those categories would only ship through properly licensed partners, after legal review.
+:::

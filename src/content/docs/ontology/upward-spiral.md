@@ -7,8 +7,6 @@ Every dialectic in this section ends the same way: done well, each side makes th
 
 ![An upward spiral: colored strands twist upward and widen, carrying forms of capital up with them.](../../../assets/upward-spiral.svg)
 
-_Spiral adapted from [upwardspiral.io](https://upwardspiral.io/)._
-
 ## It starts with one person
 
 An upward spiral is created when we resolve a dualism at the individual level.
@@ -29,7 +27,7 @@ This is the same idea the [Love x Funding](/ontology/dialectic/) page starts fro
 
 ## What travels up
 
-The spiral doesn't only lift one thing. Upwardspiral.io describes eight forms of capital that a working spiral carries upward:
+The spiral doesn't only lift one thing. It lifts eight forms of capital:
 
 | Capital      | What it is                                                         |
 | ------------ | ------------------------------------------------------------------ |

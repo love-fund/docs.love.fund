@@ -13,6 +13,8 @@ The goal isn't always to choose a side. It's to find out what becomes possible w
 
 ## Why this is useful
 
+Most political economy commentary is stuck in capture, dogmatism, and dualisms.  By moving beyond dualisms of the past, we have an opportunity to create something better.
+
 The fruits of this exploration are:
 
 - **Innovation.** Apparent contradictions can point to design spaces nobody has explored.
@@ -41,8 +43,6 @@ Three formal ways to work with opposites:
 
 These complement each other. They aren't interchangeable. Dialectics looks for a third thing. Polarity management keeps two things in a healthy rhythm. Nondualism questions whether there were ever two things to begin with.
 
-## The generative process
-
 A good synthesis keeps the strengths of both poles and opens up a new possibility. The process looks like this:
 
 1. **Identify** the opposing forces and what each one protects.
@@ -51,13 +51,13 @@ A good synthesis keeps the strengths of both poles and opens up a new possibilit
 4. **Balance** the poles when synthesis isn't possible or isn't wanted.
 5. **Iterate**, because every synthesis produces new tensions of its own.
 
-## Where it breaks down
+### Where it breaks down
 
 Not every contradiction deserves a synthesis. Some differences can't be reconciled, and some values need hard boundaries. Sometimes a proposed synthesis is just a tradeoff in disguise.
 
 There is danger in assuming every conflict has a beautiful middle ground. A real synthesis produces something better than either side. A compromise between two imperfect options doesn't.
 
-## The larger thesis
+### Productive tensions
 
 Progress may come less from eliminating tension than from making it productive.
 
@@ -70,7 +70,7 @@ The next generation of institutions might be built by designing systems where ea
 
 The goal isn't to erase opposites. It's to turn their tension into an upward spiral.
 
-## Applying this to real tensions
+### Applying this to real tensions
 
 The dialectics that follow this page in the sidebar each take one pair and work through it: what each side protects, the assumption that makes them look incompatible, what a synthesis looks like in practice, and when to hold them apart instead. love.fund itself starts from the first one, love and money.
 
