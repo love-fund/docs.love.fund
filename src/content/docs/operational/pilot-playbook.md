@@ -2,7 +2,7 @@
 title: "Pilot playbook"
 description: "How an AI-run wide-path pilot moves from idea to readout: stages, human gates, success metrics, and when a pilot graduates or stops."
 sidebar:
-  order: 3.5
+  order: 3
 ---
 
 <details class="tldr" open>
