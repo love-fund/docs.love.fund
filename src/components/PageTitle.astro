@@ -1,0 +1,18 @@
+---
+// wraps starlight's page title. operational pages are drafts by the AI cofounder: they show a warning
+// at the top until the founder explicitly approves them by setting `approved: true` in frontmatter.
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+import { Aside } from '@astrojs/starlight/components';
+
+const { entry } = Astro.locals.starlightRoute;
+const isDraft = entry.id.startsWith('operational/') && entry.data.approved !== true;
+---
+
+<Default />
+{
+	isDraft && (
+		<Aside type="caution" title="Draft">
+			This page is a working draft from love.fund's AI cofounder. It hasn't been approved yet, so treat it as a proposal that may change.
+		</Aside>
+	)
+}
