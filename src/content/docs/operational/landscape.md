@@ -2,7 +2,7 @@
 title: "Landscape"
 description: "Where love.fund sits among crowdfunding, giving and public-goods platforms, what they charge, and who is least served."
 sidebar:
-  order: 2
+  order: 5
 ---
 
 <details class="tldr" open>
