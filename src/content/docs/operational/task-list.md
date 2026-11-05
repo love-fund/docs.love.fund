@@ -18,15 +18,15 @@ _Last updated: November 5, 2026._
 
 ### Narrow aperture path
 
-1. **Pick the payment rail for the first real dollars.** Donors should get a normal fiat checkout (card, Apple Pay or bank, in USD, with receipts and no wallet), with the convenience of web3 underneath. See [Payment rails](/roadmap/payment-rails/). _Ready._
+1. **Pick the payment rail for the first real dollars.** Donors should get a normal fiat checkout (card, Apple Pay or bank, in USD, with receipts and no wallet), with the convenience of web3 underneath. See [Payment rails](/operational/payment-rails/). _Ready._
 2. **Move app.love.fund from play money to real money** with one matched campaign. Depends on 1. _Ready._
 3. **Show what the money did,** and track whether donors come back. No invented impact scores. _Ready._
 
 ### Wide aperture path
 
 1. **Confirm the matching pool terms** for wide-path pilots: pool size, amount per pilot, theme and timing. _Ready._
-2. **Draft the call for pilot proposals,** with the application form and scoring rubric. See [Call for pilots](/roadmap/call-for-pilots/). _In review._
-3. **Write an AI-run pilot playbook** with success metrics and graduation and kill criteria. See [Pilot playbook](/roadmap/pilot-playbook/). _In review._
+2. **Draft the call for pilot proposals,** with the application form and scoring rubric. See [Call for pilots](/operational/call-for-pilots/). _In review._
+3. **Write an AI-run pilot playbook** with success metrics and graduation and kill criteria. See [Pilot playbook](/operational/pilot-playbook/). _In review._
 
 ## Backlog
 

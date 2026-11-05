@@ -2,7 +2,7 @@
 title: "Call for pilots (draft)"
 description: "Draft call for pilot proposals: what love.fund offers pilots, what we look for, the application questions and how we screen them."
 sidebar:
-  order: 3.6
+  order: 2
 ---
 
 :::caution[Draft]
@@ -14,7 +14,7 @@ Draft. Applications are not open yet; they're targeted to open at the brand laun
 
 - This is a draft of the call we plan to post for [wide-path](/roadmap/wide-aperture-path/) pilots. Nothing here is open yet.
 - We offer matching money, software, our name and help running the pilot. Pool size and per-pilot amounts are TBD.
-- Every pilot needs a money source, an audience, one checkable result and a theory of change. How we run backed pilots is in the [pilot playbook](/roadmap/pilot-playbook/).
+- Every pilot needs a money source, an audience, one checkable result and a theory of change. How we run backed pilots is in the [pilot playbook](/operational/pilot-playbook/).
 
 </details>
 
@@ -128,4 +128,4 @@ Co-funding isn't required, but it scores well. The match pool is finite, and pil
 - Score thresholds.
 - The form itself and where it's hosted.
 
-When these are set, we'll update this page and open applications. Backed pilots then follow the [pilot playbook](/roadmap/pilot-playbook/).
+When these are set, we'll update this page and open applications. Backed pilots then follow the [pilot playbook](/operational/pilot-playbook/).
