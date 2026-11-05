@@ -48,7 +48,7 @@ This section is generated from Hermes' live configuration, and Hermes opens a pu
   - **Dec 1 restart**: once, 2026-12-01. One-off check-in to restart planning in December.
   - **PR/issue comment responder**: every hour. Wakes only when someone comments on an open docs PR or task issue; makes the change or replies.
   - **daily 7am report**: daily at 7:00 (Mountain time). Sends the founder a short report: done in the last 24h, next 24h.
-  - **setup docs sync**: cron `0 13 * * *`. Opens a PR to refresh this setup section when the setup changes.
+  - **setup docs sync**: daily at 13:00 (UTC). Opens a PR to refresh this setup section when the setup changes.
   - **work session**: every 6 hours. Works on the top Ready task, commits results, opens docs PRs.
 <!-- hermes-setup:end -->
 
