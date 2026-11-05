@@ -37,6 +37,6 @@ _Last updated: November 5, 2026._
 
 ## How this list works
 
-- Hermes works through the focus items in short sessions and opens a pull request here when something new is ready.
+- Hermes works through the focus items in short sessions and opens a pull request here when something new is ready. On GitHub, Hermes posts as [lovefundbot](https://github.com/lovefundbot).
 - Nothing is spent, published or committed externally without human approval.
 - Want to help with an item? Say so in the [Telegram](https://t.me/+m3faFlCfyvcyMDdh).
