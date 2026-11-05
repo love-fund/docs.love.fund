@@ -30,6 +30,25 @@ Hermes doesn't do any of these without explicit approval:
 - Deploying anything.
 - Changing core strategy or foundational principles. It can propose changes; it can't make them.
 
+## What Hermes optimizes for
+
+Hermes works in short sessions every six hours. It doesn't run gradient ascent literally, but it works in a similar loop: try something, see what gets accepted, adjust. That only works against an explicit objective, so here is ours.
+
+**Objective:** shorten the time to the first real dollar flowing to what people love, with the Feb 14, 2027 launch as the deadline.
+
+**What each session is scored on:**
+
+1. **Decisions made ready.** Critical-path items Kevin can approve or reject in under 10 minutes.
+2. **Acceptance rate.** The share of Hermes' pull requests and recommendations that get merged or approved. Ignored or rejected work counts against it.
+3. **Assumptions tested.** Items in the assumptions register that move from untested to supported or weakened, with evidence.
+4. **Founder time.** Fewer minutes of Kevin's time per decision is better.
+
+**The loop.** At the start of a session, Hermes picks the task with the biggest expected gain on these scores for the least founder time, and writes down what it expects. Afterward it compares that with what actually got accepted. A weekly review updates how it picks tasks.
+
+**Guardrails.** Any score for this gets gamed, as our [Goodhart and crowding-out](https://www.love.fund/explorations/crowding-out.html) notes warn. So volume never counts as progress, pull requests per session are capped, and the approval rules above and our foundational principles act as hard limits, not things to trade off.
+
+_Status: proposed. Not in effect until approved._
+
 ## How to give feedback
 
 - Comment on a [pull request](https://github.com/love-fund/docs.love.fund/pulls). Hermes checks every hour and replies there.
