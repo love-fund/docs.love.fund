@@ -44,4 +44,41 @@ What that means for pilots:
 - **No rake.** Matching-pool money goes to recipients only. love.fund's own fees can't come out of it.
 - **Bring outside money.** Yield goes further as leverage: pair it with at least one outside co-funder per round.
 
+## Sizing a first round (proposal)
+
+The match only has to exist when pilots pay out, not on the day the call opens. If a call opens February 14, 2027 and pilots pay out around late May, yield earned since deployment is what counts:
+
+| Pool put to work | Low | Base | High |
+| --- | --- | --- | --- |
+| December 1 | ~$122k | ~$147k | ~$186k |
+| January 1 | ~$100k | ~$120k | ~$152k |
+
+Three sizes for a first round:
+
+| Option | Gitcoin match | Pilots at $25k each | With 60% outside money | Covered by yield? |
+| --- | --- | --- | --- | --- |
+| Small | $50k | 2 | $125k | Yes, already earned by February 14 |
+| **Medium (proposed)** | **$100k** | **4** | **$250k** | Yes, even if deployment slips to January 1 (low case) |
+| Large | $250k | 10 | $625k | No. It would spend the pool itself |
+
+Why medium: it keeps the "yield-only matching" promise, it uses about a third of a year's yield and leaves the rest for other rounds, and it's a round the team can actually run well. Proposed guardrails:
+
+- 100% of the match goes to recipients. No fees or operating costs come out of the pool.
+- Each pilot brings outside money. The full $25k needs at least a 1:1 outside match, and pilots without a co-funder get a smaller cap. If a pilot raises less than 80% of its outside goal, the Gitcoin match shrinks with it, as in GG24.
+- Unspent match goes back to the pool, and results are posted within 14 days of payouts.
+
+## Timeline to February 14 (proposal)
+
+Gitcoin's [governance process](https://gov.gitcoin.co/t/gitcoin-dao-governance-process-v3/10358) needs at least 5 days of forum discussion with input from 5 independent stewards, then a [Snapshot](https://snapshot.org/#/gitcoindao.eth) vote. The vote currently runs 7 days, and quorum is 1.5M GTC.
+
+| Step | Target date |
+| --- | --- |
+| Formal proposal to put the pool to work | mid-November 2026 |
+| Pool earning yield | December 1, 2026 |
+| love.fund round 1 allocation posted to the forum | early January 2027 |
+| Allocation voted and payment rails chosen | February 1, 2027 |
+| Call for pilots opens | February 14, 2027 |
+
+These are targets, not commitments, and every step needs a governance vote or a founder decision.
+
 _Not financial advice. Rates change daily, and there is smart contract risk._
