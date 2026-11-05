@@ -2,12 +2,17 @@
 title: "Task list"
 description: "What the love.fund AI cofounder is working on now, what's waiting for review, and what's in the backlog."
 sidebar:
-  order: 5
+  order: 1
 ---
 
 This is the working task list for love.fund, kept by our AI cofounder (Hermes) and reviewed by the love.fund team. It changes often. Items are targets, not commitments.
 
 _Last updated: November 5, 2026._
+
+**Where to comment:**
+
+- [Task board](https://github.com/orgs/love-fund/projects/1): every task and its status.
+- [Pull requests](https://github.com/love-fund/docs.love.fund/pulls): new docs work waiting for review. Comment there, line by line if you like.
 
 ## Focus: the top three for each path
 

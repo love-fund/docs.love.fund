@@ -46,4 +46,5 @@ export const sidebar = [
 		collapsed: true,
 		items: [{ autogenerate: { directory: 'reference' } }, { label: 'Single Pager', link: '/reference/single-pager/' }],
 	},
+	{ label: 'Operational', collapsed: true, items: [{ autogenerate: { directory: 'operational' } }] },
 ];

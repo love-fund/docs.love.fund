@@ -1,0 +1,11 @@
+---
+// old /reference/task-list/ url: the task list moved to /operational/task-list/. carries the destination's social card.
+import { getEntry } from 'astro:content';
+import Redirect from '../../components/Redirect.astro';
+
+const id = 'operational/task-list';
+const entry = await getEntry('docs', id);
+if (!entry) throw new Error(`redirect target missing: ${id}`);
+---
+
+<Redirect to={`/${id}/`} title={entry.data.title} description={entry.data.description ?? ''} card={id.replace(/\//g, '-')} />
