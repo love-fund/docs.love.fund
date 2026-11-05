@@ -25,7 +25,7 @@ Dates from today onward are targets, not commitments.
 | **May 2021** | GTC launches, and Gitcoin is handed to its community as a DAO. |
 | **2021–2024** | Gitcoin 2.0: Grants Stack and Allo Protocol. More than $60M distributed across 230+ rounds by the end. See the [track record](/start-here/track-record/). |
 | **2025** | Gitcoin 3.0. Spending is cut, the legacy product stack is shed, and GG24 runs as the first funding round of the new era. |
-| **January 2026** | The 2026 strategy si to find a reset and a new business.. |
+| **January 2026** | The 2026 strategy is to find a reset and a new business. |
 | **July 2026** | The GTC retrospective, and the transitionary stewards cohort is proposed. |
 | **July 16, 2026** | **love.fund is conceived.** The name comes up and sticks: "i love to fund on love.fund." |
 | **August 2026** | The transitionary stewards term begins. It runs through August 2027. |
