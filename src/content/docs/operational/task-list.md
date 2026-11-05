@@ -34,6 +34,7 @@ _Last updated: November 5, 2026._
 - Answer the five open questions: first customer, first money, legal entity and ownership, moat and revenue, and how we measure the bridge into a sacred economy.
 - Decide which docs pages are foundational and which are provisional, and which side of the market comes first (sponsor, donor or creator).
 - Line up co-funders for matching pools.
+- Trial owockibot as an outside developer: one capped, paid-bounty task. See [owockibot](/operational/owockibot/).
 
 ## How this list works
 
