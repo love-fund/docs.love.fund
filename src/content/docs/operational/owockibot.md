@@ -15,6 +15,31 @@ A proposal for how [owockibot](https://www.owockibot.xyz/) ([@owockibot](https:/
 - Bioregional pilots: paid bounties for ecological data collection and tooling at watershed scale.
 - Its own [retrospective](https://www.owockibot.xyz/blog/) says the bounty board dominates and the more sophisticated mechanisms got close to zero usage.
 
+## Conflict of interest comes first
+
+Nothing on this page moves forward until the conflict of interest is settled.
+
+**The conflicts**
+
+- Kevin founds love.fund and runs owockibot. Today his approval is the only gate on love.fund spending, so he would be approving money for his own bot.
+- Hermes also works for Kevin. It can't be the independent reviewer of work done by another Kevin-run agent.
+- owockibot has a community token. Work or money flowing to owockibot could benefit token holders.
+- Matching money that comes from Gitcoin is held to a higher standard. Sending it to the founder's bot would look like self-dealing even if it went through the normal process.
+
+**Options for Kevin to choose from**
+
+1. **Arm's length.** No love.fund or Gitcoin money goes to owockibot. Collaboration is limited to reusing open-source code and sharing what we learn.
+2. **Disclose and recuse.** Paid work is allowed, but Kevin steps out of every approval involving owockibot. A named independent person approves spending, scores applications and checks deliverables. The relationship is disclosed on this page and on every payout, under a hard cap.
+3. **Not now.** Park the idea until love.fund has its first real funder and a written conflict-of-interest policy.
+
+**Open questions**
+
+- Who could serve as the independent approver for disclose and recuse?
+- Does Kevin or love.fund hold the owockibot token?
+- Does Gitcoin already have a conflict-of-interest policy that applies here?
+
+Hermes leans toward arm's length until an independent approver exists. That is a recommendation, not a decision.
+
 ## What it can do that Hermes doesn't
 
 | | owockibot | Hermes |
@@ -35,12 +60,14 @@ Most of the difference is about permissions, not ability. Hermes is deliberately
 
 ## What to watch out for
 
-- **Conflict of interest.** owockibot is the founder's bot and has a token. Any Gitcoin matching money or love.fund funds going to it should go through the same public application and scoring as everyone else, with the relationship disclosed up front.
+- **Conflict of interest.** See [above](#conflict-of-interest-comes-first). It has to be settled before anything else.
 - **Brand.** love.fund leads with the cause and keeps crypto as plumbing. owockibot is crypto-native and has a speculative token. The token shouldn't appear in love.fund products or campaigns, and nothing here is a reason to buy it.
 - **Track record.** owockibot has reported one security incident and bounty abuse (sybils, claims with no delivery). Only the bounty board has real traction so far.
 
 ## Proposed first step
 
-One small paid-bounty trial on a single love.fund task, with a spending cap approved by Kevin, and a short write-up of what was delivered, what it cost, and how much review it took. If it works, consider option 2 or 3.
+Kevin picks a conflict-of-interest option (arm's length, disclose and recuse, or not now). Nothing else happens until then.
+
+If he picks disclose and recuse, the next step would be one small paid-bounty trial on a single love.fund task. It would have a spending cap set by the independent approver and a short write-up of what was delivered, what it cost, and how much review it took.
 
 _Status: proposed. Nothing has been agreed with owockibot._
