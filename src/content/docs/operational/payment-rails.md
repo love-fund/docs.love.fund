@@ -2,7 +2,7 @@
 title: "Payment rails"
 description: "How money could move through love.fund: the requirement any rail has to meet, and the options under review. No rail has been chosen."
 sidebar:
-  order: 9
+  order: 4
 ---
 
 <details class="tldr" open>
