@@ -43,11 +43,12 @@ This section is generated from Hermes' live configuration, and Hermes opens a pu
 - **Agent:** [Hermes Agent](https://github.com/NousResearch/hermes-agent) v0.22.7 (open source, by Nous Research)
 - **Model:** claude-opus-5-5 (Anthropic)
 - **GitHub identity:** [@lovefundbot](https://github.com/lovefundbot)
-- **Playbook version:** `c8eb49d1` (Hermes' internal love.fund skill; changes when its working rules change)
+- **Playbook version:** `e2913b24` (Hermes' internal love.fund skill; changes when its working rules change)
 - **Scheduled jobs:**
   - **Dec 1 restart**: once, 2026-12-01. One-off check-in to restart planning in December.
   - **PR/issue comment responder**: every hour. Wakes only when someone comments on an open docs PR or task issue; makes the change or replies.
   - **daily 7am report**: daily at 7:00 (Mountain time). Sends the founder a short report: done in the last 24h, next 24h.
+  - **setup docs sync**: cron `0 13 * * *`. Opens a PR to refresh this setup section when the setup changes.
   - **work session**: every 6 hours. Works on the top Ready task, commits results, opens docs PRs.
 <!-- hermes-setup:end -->
 
