@@ -9,12 +9,12 @@ The plan today is to open the [call for pilots](/operational/call-for-pilots/) a
 
 ## Three pilots
 
-### 1. Fund what you love: Boulder (narrow path)
+### 1. Fund what you love: Node Zero (narrow path)
 
 **When:** Giving Tuesday, December 1, through December 31, 2026.
 
 - [app.love.fund](https://app.love.fund/) switches from play money to real money, for one city.
-- People say what they love about Boulder, the guide drafts a fund across local nonprofits, and they give to it, follow it or fork it.
+- People say what they love about Node Zero, the guide drafts a fund across local nonprofits, and they give to it, follow it or fork it.
 - A matching pool splits across funds by how many people back each one, so every nonprofit has a reason to rally its donors.
 - **Money:** a $25k match, plus a local co-funder if we can find one in time.
 - **Success looks like:** 150+ donors, $15k+ given directly, 30%+ of funds followed or forked, payouts by January 15, and a public readout.
@@ -67,7 +67,7 @@ The plan today is to open the [call for pilots](/operational/call-for-pilots/) a
 | By November 12 | Decisions; payment rail checks; access to the app |
 | November 13 | Governance proposal posted |
 | November 19–26 | Vote |
-| November 14–28 | Build real money mode, onboard Boulder nonprofits |
+| November 14–28 | Build real money mode, onboard Node Zero nonprofits |
 | December 1 | Pilot 1 live |
 | December 31 | Pilot 1 closes |
 | January 6–31 | Pilots 2 and 3 live |
