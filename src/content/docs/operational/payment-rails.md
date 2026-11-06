@@ -139,6 +139,32 @@ Donors pay by card, Apple Pay or bank in dollars. Underneath, value settles in a
 **Pros:** delivers most of the "web3 underneath" list. There is precedent for card donors joining a QF pool without touching crypto.
 **Cons:** whoever converts or holds the money takes on money-transmission questions, so love.fund should only do this through licensed partners after legal review. Crypto has to be disclosed. Recipients' ability to take stablecoin varies.
 
+## What we've learned since (November 6, 2026)
+
+These notes come from a second look at the options against the requirement above. No rail has been chosen and no vendor has been contacted.
+
+**Hand-off checkout vs. collecting the money ourselves.** There are two ways to plug into a DAF or giving platform.
+
+- **Hand-off.** The donor finishes the gift on the partner's checkout, and the partner is the legal recipient. love.fund never touches the money.
+- **Partner API.** love.fund runs its own checkout and reports donations to the partner afterwards. At least one DAF partner API records donations "already settled at a tech-platform partner" ([Endaoment API docs](https://docs.endaoment.org/developers/api/partner-endpoints/create-cash-donation-pledge)). That means love.fund, or its payment processor, would collect donor money first, which raises the money-transmission questions above.
+
+So the hand-off is the realistic route for a first real dollar, and an own checkout is a later step after legal review.
+
+**Where "web3 underneath" can come from today.** Some DAF charities already keep their records on a public blockchain while donors pay by card or bank. One records donations, grants and fees on an onchain ledger, briefly converts assets to USDC during processing, and shows users no crypto interface ([Endaoment recordkeeping](https://docs.endaoment.org/advisors/about/platform-recordkeeping); [card and bank gifts via Stripe](https://docs.endaoment.org/advisors/collaboration/donating)). Other giving platforms offer a broad fiat checkout (card, Apple Pay, Google Pay, PayPal, Venmo and bank) but no public ledger. The trade-off is between the fullest fiat checkout and a transparent ledger, unless the two are combined.
+
+**What fees do to small gifts.** Here are published third-party fees on a single gift, before any optional tip:
+
+| Method | $5 | $10 | $25 | $100 |
+| --- | --- | --- | --- | --- |
+| Card at 2.2% + $0.30 ([Every.org pricing](https://www.every.org/pricing)) | $0.41 (8.2%) | $0.52 (5.2%) | $0.85 (3.4%) | $2.50 (2.5%) |
+| PayPal or Venmo at 1.99% ([Every.org pricing](https://www.every.org/pricing)) | $0.10 | $0.20 | $0.50 | $1.99 |
+| Bank transfer, free ([Every.org pricing](https://www.every.org/pricing)) | $0 | $0 | $0 | $0 |
+| Direct gift fee of 1.5%, plus card processing ([Endaoment fees](https://docs.endaoment.org/donors/resources/fee-schedule)) | $0.08 + card | $0.15 + card | $0.38 + card | $1.50 + card |
+
+A card gift of $25 or less loses more than 3% to card fees. To keep "never charge the small donor", someone has to cover card fees on small gifts, or the checkout has to make bank transfer the easy default.
+
+**Fees on the matching pool.** If a matching pool sits in a DAF, the DAF's admin fees apply to it too. At one DAF's published rates (0.5% in and 1.0% on grants), that's about $1,500 on a $100,000 pool. A promise that 100% of the match reaches recipients needs those fees paid from outside the pool, or the promise worded accordingly.
+
 ## What happens next
 
 - Counsel reviews the options and the platform-law question.
