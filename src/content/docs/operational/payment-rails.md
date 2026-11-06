@@ -160,6 +160,9 @@ So the hand-off is the realistic route for a first real dollar, and an own check
 | PayPal or Venmo at 1.99% ([Every.org pricing](https://www.every.org/pricing)) | $0.10 | $0.20 | $0.50 | $1.99 |
 | Bank transfer, free ([Every.org pricing](https://www.every.org/pricing)) | $0 | $0 | $0 | $0 |
 | Direct gift fee of 1.5%, plus card processing ([Endaoment fees](https://docs.endaoment.org/donors/resources/fee-schedule)) | $0.08 + card | $0.15 + card | $0.38 + card | $1.50 + card |
+| The same direct gift, all-in, as shown at checkout with "offset fees" on (1.5% plus 2.9% + $0.30 card, added to the donor's total) | $0.54 (10.7%) | $0.76 (7.6%) | $1.45 (5.8%) | $4.86 (4.9%) |
+
+The last row was read from a live checkout page on November 6, 2026, with nothing paid: the $10 and $100 figures are as displayed, and $5 and $25 use the same formula. That checkout also asked for no sign-in or account. Donor details (email, name, address for a receipt) were optional, and the payment options were card, US bank account and Amazon Pay. The partner's docs list Apple Pay and Google Pay as well, but a headless browser doesn't display wallet buttons, so we didn't see them. A shareable link can open the checkout with the amount already filled in.
 
 A card gift of $25 or less loses more than 3% to card fees. To keep "never charge the small donor", someone has to cover card fees on small gifts, or the checkout has to make bank transfer the easy default.
 
