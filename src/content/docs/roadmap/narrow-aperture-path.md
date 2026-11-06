@@ -61,7 +61,7 @@ Letters credit the contributor behind each criterion (D, E and K).
 
 21. **AI-forward.** The team is Kevin and 1-2 other people, and agents otherwise.
 22. **Exploring collaboration with Techne Foundation.** The Techne app could give us distribution, and we could give communities funding superpowers.
-23. **Exploring collaboration with Tech Coop,** including possible pilots in Boulder.
+23. **Exploring collaboration with Tech Coop,** including possible pilots in Node Zero.
 24. **Interoperable with other apps** via atproto and plugin infrastructure.
 
 ## The funding graph
