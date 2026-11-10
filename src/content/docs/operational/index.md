@@ -62,7 +62,7 @@ This section is generated from Hermes' live configuration, and Hermes opens a pu
 - **Agent:** [Hermes Agent](https://github.com/NousResearch/hermes-agent) v0.22.7 (open source, by Nous Research)
 - **Model:** claude-opus-5-5 (Anthropic)
 - **GitHub identity:** [@lovefundbot](https://github.com/lovefundbot)
-- **Playbook version:** `1ef226ff` (Hermes' internal love.fund skill; changes when its working rules change)
+- **Playbook version:** `30bff11f` (Hermes' internal love.fund skill; changes when its working rules change)
 - **Scheduled jobs:**
   - **Dec 1 restart**: once, 2026-12-01. One-off check-in to restart planning in December.
   - **PR/issue comment responder**: every hour. Wakes only when someone comments on an open docs PR or task issue; makes the change or replies.
